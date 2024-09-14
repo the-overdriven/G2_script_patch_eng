@@ -1743,4 +1743,660 @@
 - Involved the unused phrase "See, you're already better than me...", uttered by teachers when attempting to teach beyond their limit;
 
 ## pre-15x
-- [worldofplayers.ru/threads/36817](https://worldofplayers.ru/threads/36817/)
+- After Lares takes PC to Onar, the opportunity is not lost to go with him to the Water magicians or to the eastern forest.
+- In case of loss of focusing stones (if the PC was attacked during the installation of the stone on the pedestal), you can get additional stones from the Merdarion.
+- PC attributes no longer change when using transformation spells.
+- NPCs no longer attack PC after using transformation spells if they have seen him in a transformed state.
+- Sekob is no longer immortal starting from Chapter 3.
+- Fixed the inability to learn the language of architects from the Mixer in Khorinis after the death of Raven.
+- Attila attacks PC in case of help to Rengar and Halvor, but refusal to do work for Nagur.
+- Mario and Girion no longer affect the number of NPCs that can be taken on board the ship.
+- Mario and Girion do not take into account the ship's crew limit, now they do not have to be hired last.
+- In chapter 6, you can no longer buy the almanac of the possessed from Vatras.
+- Mika can only be told about Akil once.
+- Buster buys the horns of the gloom, even if PC does not know how to get them. Also fixed a bug with getting 0 experience for horns.
+- The Fire Dragon is now immortal before the conversation.
+- Igarats is now going to the right waypoint in the quest 'Trial by Fire'.
+- Agon attacks PC in order to kill him, like the rest of the novices in the quest 'Trial by Fire'.
+- Igarats gives information on completing the 'Living Rock' quest, even if he has gone to another waypoint.
+- The experience for stealing from all NPCs is now calculated according to the addon formula.
+- Added experience for including Lester and Lares in the ship's crew.
+- Alligator Jack teaches hunting after Greg's return, even if PC did not go hunting with him (the hunting quest is added to the failed ones upon Greg's return, as it should have been).
+- Cornelius cannot be given gold indefinitely.
+- Garond can be told about the Silvestro mine even in the event of Diego's death.
+- Lord Hagen will not address PC if he has turned into a sheep.
+- Esteban has a key now.
+- You cannot get runes from the inventory by freezing.
+- Added missing ambient dialogues.
+- Ambient inventory is generated for all pirates (except Angus and Hank).
+- Diego teaches strength in Khorinis.
+- The Hangar retains its original weapons when moving to other locations.
+- Cronos in Jarkendar and Gorax are initially equipped with staffs.
+- Fixed the transfer of Biff from the Valley of Mines and slaves from Jarkendar to Khorinis.
+- Diego can no longer be taken to the stone dragon.
+- When buying armor, the correct protection parameters are displayed.
+- Rosi and Till have no problem staying at Onar's farm.
+- Samuel has a fire protection ring on sale.
+- Typos and other localization errors have been fixed.
+- Fixed a bug when Pardos received a healing elixir.
+- An unused note from thug Tom is involved, it can be found in Angus's inventory.
+- You can buy a recipe for making a Quick Herring drink from Samuel.
+- All dragons have restored immunity to the spell 'Fear' (taken from G2MDK).
+- Igarats sells the key to his chest to PC only if it is available in the inventory.
+- PC gives Lemar's debt book to Coragon only after he informs about its availability.
+- Alligator Jack no longer teaches skinning reptiles and pulling teeth if PC already knows these skills.
+- Now, when trading with Miguel, Juno, Fisk, Juan, Scatty and Crimson, the text in the menu corresponds to the phrase from the voiceover.
+- It is no longer possible to demand that the guard release the slaves after he leaves his post.
+- If PC did not meet Diego in the Valley of Mines, then in Khorinis he can ask him 'Who are you?'.
+- If PC finds out that Cord belongs to the 'Ring of Water', he may demand that he pay for his silence or leave Onar's farm.
+- Lee no longer sells the armor of the mercenary PC, who became a dragon hunter.
+- Tonak and Pardos, who have returned home, can only be asked about their affairs once.
+- Fixed bugs in the fire and magic protection parameters given by the crawler belt, as well as in the mana bonus given by the Enlightenment ring.
+- The level is slightly lowered in a young giant rat and increased in a young field predator.
+- Fixed errors in the descriptions of the cost of learning gold mining skills from Scatty and removing trophies from blood flies from Edgor.
+- It is no longer possible to increase the gold mining skill above 100%.
+- In the main menu, the German name of the addon has been changed to Russian (taken from the Sicilian fix from the Akella forum).
+- Fixed a bug where after upgrading Beliar's Claw, the current health may be higher than the maximum.
+- Juan is creating a trading inventory.
+- Ultar no longer has illogical phrases, as well as the nameless bandit and pirate in Jarkendar.
+- Fixed inconsistencies in the cost of using transformation spells (taken from DNdR Script Patch).
+- In Chapter 6, you cannot re-receive special items from Milten, Diego, Bennet and Vatras (partially taken from the DNdR Script Patch).
+- Fixed a bug that made it impossible to opt out of learning sword forging from Bennet in chapter 6.
+- Fixed a bug with Cassia's attack if PC took time to think.
+- The ability to steal the Innos statuette given to her earlier from Edda has been unlocked.
+- You can hand over Nagur to the militia, even if PC has already given the package to Akil Baltram (taken from MiniMod Balance).
+- The corpse of the black goblin will not disappear until the precious statue of Innos is taken from his inventory (taken from MiniMod Balance).
+- PC does not give Cavalorn an additional piece of ore when returning his wallet from the hut in the Valley of Mines (taken from MiniMod Balance).
+- PC answers 'Yes' to Jergan's question about the claws of the leader of the pack of snappers, if he has already given them to Luther (taken from MiniMod Balance).
+- You can no longer endlessly attach and release the Hangar before entering the halls of the Irdorath (it does not go further) and get experience for it (taken from MiniMod Balance).
+- Now you can inform Saturas about the release of the prisoners before moving on to the next chapter (taken from MiniMod Balance).
+- If PC gave Snafu the hammer of Lu, then in response to the question about Huno, Snaf will no longer say, 'Of course, this information is free.' (taken from MiniMod Balance).
+- If PC shows Vatras the letter with Raven's orders, he will get experience for all the evidence. Of course, if PC did not inform him about them earlier (taken from MiniMod Balance).
+- Diego will not go anywhere near an abandoned mine if PC has already been with him at the exchange point and received a nostalgia bonus (taken from MiniMod Balance).
+- Now the cost of learning magic circles is shown in each dialog (taken from MiniMod Balance).
+- Cassia, Jesper and Ramirez show the cost of training in stealing skills, and Jergan shows the cost of training in removing claws (taken from MiniMod Balance).
+- Meat supplies to Engor are no longer calculated incorrectly when transferring different types of meat to him (taken from MiniMod Balance as amended by Zorres).
+- After receiving the fever medicine, Hilda works again in the next chapter (taken from MiniMod Balance).
+- Rosi no longer sells a good bow and crossbow (taken from MiniMod Balance).
+- Now, instead of returning back to Talbin, Engrom runs to the Aisle if PC informs him that he is possessed (taken from MiniMod Balance).
+- Torben no longer requires 200 gold coins for lock picking training if PC gave him Lemar's debt book (taken from MiniMod Balance).
+- In the next chapter, Salandril returns from the monastery, but no longer trades with PC.
+- It is no longer possible to get additional steel blanks from blacksmiths, and additional beakers from alchemists.
+- PC receives experience from Vatras for old stone tablets, depending on their number.
+- The eagle no longer gives experience 2 times for completing the competition 'Drink to the bottom.' Now Randolph will give the second part of the experience if he defeated Rukhar.
+- Fixed various bugs in dialogues with Bartok, Cavalorn, Lothar, Marduk, Neoras and Diego.
+- If PC gives Vatras more than 25 old stone tablets, then Erol's quest will fail.
+- In case of destruction of the thieves guild, all active quests of Cassia and Ramirez will be canceled.
+- There are no more additional weapons in the inventory of various types of goblins (taken from MiniMod Balance).
+- Fixed a bug that did not take into account the first almanac of the possessed given to the Pyrocar.
+- Pardos and Peck no longer utter the phrase that PC should say (taken from MiniMod Balance).
+- It became possible to pray to Innos or Beliar on the first day (taken from MiniMod Balance).
+- Fixed bugs that allowed you to receive bonuses from prayers to Innos more than 1 time a day (thanks to Desomorphine).
+- During the prayer, Beliar is correctly shown the number of sacrificed units of life or mana.
+- The innkeeper gives PC beer, including on the first game day.
+- The undead dragon no longer says that PC has the Claw of Beliar if he does not have this sword or rune (taken from MiniMod Balance).
+- Bilgot no longer dies after parting with PC near the aisle.
+- After Francis gets what he deserves, Samuel treats PC to a bottle of rum, as stated in the dialogue.
+- Now it is possible to give medicinal extracts and pure health to all colleagues. In addition, they only drink healing potions in case of injury.
+- When Greg comes to Dexter, the second guard moves closer to the battlefield (taken from MiniMod Balance).
+- The endless appearance of pickaxes among convicts and slaves has been eliminated, but at the same time they stopped using weapons.
+- Unlocked the study of Paladin magic from Milten in Chapter 6 and fixed errors in the cost of studying Paladin runes from Albrecht.
+- Fixed a bug that caused Milten in chapter 6 to teach PC how to create runes of only one circle of magic.
+- Now PC will not receive the experience for destroying the nest of crawlers in the gold mine immediately, but when he informs Garaz about it.
+- Residents of the port quarter no longer react to drawn melee weapons and do not interfere in a fight (taken from MiniMod Balance).
+- Matteo sells leather armor only before the beginning of Chapter 4.
+- The time dilation effect given by black ore is deactivated before the summoning or transformation spell (taken from MiniMod Balance).
+- PC's attack on other NPCs is always considered to have no reason.
+- Now the meat stew also heals Pardos.
+- The opportunity to make a bandit's axe has been realized. The forging recipe can be bought from Huno.
+- Bloodwin appears in the gold mine only after destroying all the crawlers.
+- Fixed the consumption of ingredients in the manufacture of various varieties of tobacco.
+- If PC has not dug up the treasure in the cave within 2 days, then the quest to find Greg's treasures is canceled. In addition, Greg, who returned to the pirate camp, will remind PC of the failure of this quest.
+- You can give Fester, Raoul and Sentenza a regular beating only until Sylvio leaves Onara's farm.
+- Dexter's phrase that was missing in the subtitles has been restored 'I warned you.'.
+- In chapter 3, it is no longer possible to meet a living novice Pedro in a cave under the circle of the Sun.
+- When loading the game, the NPC no longer has incorrect battle animations (the idea of Myxomop was used).
+- After the death of Sengrath and Engor, various goods no longer remain in their inventories (with the exception of quest items).
+- During the Orc attack, Engor tries to move closer to the battlefield.
+- Fixed the display of bonuses given by flame slicing, steaming meat stew, hammer of Lu and the book 'Divine Power of the Stars'.
+- Fixed bugs that caused the phrase PC not to be voiced in conversation with Jergan and Raoul when re-selecting the dialog option.
+- PC no longer talks to Marduk about consecrating the sword after he has already done so. Also, after receiving a sword from Garad, he does not ask where he can get such a sword.
+- Translated dialogues with all test assistants (CH, FH, SH and SH_Oldworld). Training in all the skills of the addon has been added to the menu of the CH assistant.
+- The list of displayed skills in the hero characteristics window has been significantly expanded.
+- If PC steals Gritta's wallet, then she and Torben will no longer have illogical remarks.
+- Paladins no longer have goblin berries, pirates no longer have pepper bags, and additional apples can only be obtained from NPCs once.
+- To compensate, several additional goblin berries and pepper bags have been added to the sale.
+- Fixed the output of messages about the lack of attributes and skills of the PC to perform certain actions.
+- The missing quotation mark symbol has been added to the in-game font and some color tone discrepancy between Russian and non-Russian characters has been eliminated.
+- After receiving a letter from Diego, Gerbrandt runs away from the upper quarter.
+- May I ask 'How are you?'Diego has been in Khorinis only since chapter 4.
+- If PC takes Mario to the ship's crew, then in chapter 6, after PC's meeting with the colonel of the orcs, his name will appear in the almanac of the possessed and the magic letter of the Pyrocar.
+- Mario in Khorinis is equipped with the same sword as on Irdorath.
+- The ambient dialogues of the knight in the port of Khorinis and the guard in the bandit camp in Jarkendar have been restored.
+- In chapter 6, Girion became an associate of PC, as did all the other members of the ship's crew (except Mario).
+- In chapter 6, Diego shows the cost of learning how to pick locks, and Lares shows the cost of sneaking.
+- Fixed discrepancies between subtitles and voiceovers in the phrases of Xardas, Lord Hagen, Garad, Parlan and Pirocar.
+- In chapter 6, Vatras becomes invulnerable only during an orc attack on a ship. He will become mortal again after PC informs him that he has found Pedro.
+- Torus returns to his normal daily routine after learning about Raven's death.
+- 11 unused replicas are involved for Hanna's dialogues with PC.
+- Hanna's revenge for the destruction of the Thieves Guild's lair has been realized.
+- Fixed a bug that caused the spell counter to not increase when summoning creatures (thanks to redleha).
+- After the liquidation of the militia, Bengar returns to the usual daily routine.
+- After Attila gives the key to PC, he will stop responding to the threat of weapons and he can be beaten.
+- In Chapter 3, Vanja's daily routine changes (it used to happen when PC sent Peck to the barracks).
+- Lares on Irdorathh is equipped with the same sword as in Khorinis. An additional crude one-and-a-half sword has also been removed from his inventory.
+- Hanna is now equipped with a dagger, and Ibrahim is equipped with a staff.
+- Added the ability to make tobacco 'Double Apple'.
+- Bennet will give a map of the caves of Khorinis only if PC does not have it and cartographer Ibrahim is dead.
+- After receiving the medicine, Randolph always drinks it.
+- PC can ask the novices to help him sweep the cells only after receiving this assignment from Parlan.
+- PC can give Babo or Pedro an additional lamb sausage only if it is available in the inventory.
+- If PC and Ignatz don't have enough Oblivion scrolls after starting Karras' quest, then Ignatz will have additional scrolls with this spell on sale.
+- During the 'Trial by Fire' quest, Igarats always starts a conversation with PC.
+- Hyglas shows the cost of learning how to create the Fire Arrow rune, and Raoul shows the cost of skinning.
+- If PC does not have a scroll with this spell before learning how to create the rune 'Fire Arrow' from Hyglas, then he can buy a scroll from Gorax or find it in the storeroom of the monastery.
+- Cowardly and ambient NPCs (except Seekers) can escape (taken from Gothic). An NPC who escapes from the PC is counted as a defeat in battle. Cowardly monsters can also escape.
+- Expanded the list of drinks that NPCs can consume. Most people drink water, wine, beer and gin, while pirates prefer gin and rum.
+- Fixed the translation of several phrases in the dialogues between PC and Bennet in Khorinis and Cardif (subtitles only).
+- There are no more discrepancies between the text and the voiceover in the question of the PC about the attempted assassination of Esteban.
+- Skinner won't attack if PC wakes him up in the daytime to ask about the attack on Esteban.
+- After making donations to Daron, PC's health will be maximized.
+- When PC treats Rangar to a drink, this NPC will drink beer, not gin.
+- The ability to give the hermit armor inaccessible to the player is blocked.
+- The belt from the crawler will be available for sale at Bennet's not in chapter 3, but after Wolf makes armor from the shells of the crawlers.
+- Added the ability to steal the key from Torus (taken from the Unnamed mod).
+- Ambient inventory is created for all NPCs (except merchants and spirits of Quarhodron and Rademes).
+- Now magicians and paladins heal themselves with spells. Other NPCs can be treated with pure health.
+- Now PC is giving Martin all the evidence against Fernando. At the same time, Martin examines the received list of products.
+- The prisoners in the city prison and the convicts in the prison of the castle of Mine Valley no longer carry weapons. To prevent Beliar's Claw from being equipped, this weapon has a minimum strength requirement.
+- Lee sells medium and heavy mercenary armor at their current value (taken from the PowerGamer patch).
+- Fixed bugs in the options of the pickpocketing dialog from the Cipher (taken from the PowerGamer patch).
+- Jesper no longer teaches sneaking if PC already knows this skill (taken from the PowerGamer patch).
+- When moving to the next chapter, boar skins are removed from merchants' inventories (taken from the PowerGamer patch).
+- The 'Joe' quest will be cancelled at the beginning of Chapter 6 (taken from the PowerGamer patch).
+- PC can demand from Bodo to give back the swamp grass only when he learns from Cipher about the theft of the bale, but has not yet found the thief (taken from the PowerGamer patch).
+- Hilda will not only inform PC on the first day that he can come for more tomorrow (taken from the PowerGamer patch).
+- Fixed a situation where a dialogue with Baltram might not appear, in which, in order to resume trading, PC must give him 10 hams and 10 bottles of wine (taken from the PowerGamer patch).
+- Alrik, wounded in battle in the arena, will not drink a healing elixir, but 'Pure Health' (taken from the PowerGamer patch).
+- Bloodwin's corpse remains in the temple if PC killed him before the crawlers in the gold mine (taken from the PowerGamer patch).
+- Added various descriptions for full and empty Kerolot leather wallets (taken from the PowerGamer patch).
+- Cord's training will work if PC has one-handed or two-handed weapon skills below 30% and he has asked Cord to teach him on behalf of Lares or Lee (taken from the PowerGamer patch).
+- A slave has been removed from the gold mine, who must work with a non-existent vein (taken from the PowerGamer patch).
+- After the slaves are freed, all 4 miners in the gold mine get to work (taken from the PowerGamer patch).
+- Now the failed quests of Alvin, Babo, Gorax, Greg, Dyrian, Opolos, Sekob, Hanna and candidates for the ship's crew (except captains) immediately go to the failed list.
+- Lester, Lee and Mario can refuse to travel to Irdorath if PC has twice excluded them from the ship's crew.
+- Fixed the discrepancy between the amount of gold created in Rosi's inventory and given to her by PC after successfully escaping from the Sekob farm.
+- Changed the description of the difficulty level of pickpocketing at Carlos and Sylvio in the Mine Valley.
+- Fixed bugs that caused NPCs to be unable to pick up long-range weapons.
+- Henry will not refuse to talk to PC when he turns away from him after granting permission to enter the pirate camp (taken from the PowerGamer patch).
+- Paladin runes will not be removed from the inventory of the Orc Colonel in Khorinis and the shadow Lord Archol on Irdorath.
+- Rupert, Cipher and Torben create trading inventory, from which various junk is periodically removed and which is cleaned if this NPC has been beaten or killed (taken from Gothic 2 Classic Mod Fix).
+- The corresponding entry in the diary will appear only after PC tells Fernando, 'Now you can't get away. I've exposed you.'.
+- Fixed a bug that allowed searching an NPC who came out of unconsciousness or a magical dream.
+- Now the herring is displayed in the 'Food' inventory category.
+- May I ask Rupert 'Where can I find Matteo?'just before talking to Matteo.
+- After joining the militia or the monastery, it is impossible to tell Wolf, Raoul and Alvarez about the desire to become a mercenary.
+- After the death of Bloodwin, you can't tell the guard at the entrance to the temple 'It's damn important, I just have to get to him.'.
+- PC can tell Marcos that he came from Garond only after receiving the task of finding prospectors.
+- PC can tell Malet that he was attacked by bandits only after contact with bandits from the Brago gang.
+- Removed unnecessary menu items 'BACK' when learning animal butchering skills from Gaan.
+- When studying the creation of the rune 'Holy Arrow', the corresponding inscription will be shown.
+- An additional condition has been created for the question to Fellan 'Could you stop hammering?'.
+- If Angar gets his amulet before PC talks to Garond about dragon hunters, he will go not to the crypt in the cave, but to Cavalorn's hut.
+- Reton will only work with Ian in the forge after receiving permission from Garond.
+- Fixed the number of dragon eggs in the recipe of the drink 'Embarla Firgasto'.
+- Bloodwin will tell PC that the Raven is already opening the temple only if he recognizes it.
+- You can ask Malet about Lobart only before talking to Lobart.
+- When PC pays for his work clothes, Lobart will not consider it theft to open a chest in his house for a while.
+- You can't get Onar's rent from Sekob twice anymore.
+- PC answers 'No' to Torlof's question when receiving assignments to collect rent or drive away the militia, if he has already talked to Sekob or Bengar.
+- If PC gave the precious statuette to Pedro, then he can inform Daron about it.
+- Henry will consider medium, heavy and old mercenary armor to be luxurious armor.
+- Alvin will call PC a murderer and will remember it if PC killed Fellan during his assignment.
+- During the training, PC Wulfgar comments on the improvement of weapon skills.
+- On Lobart's instructions, PC gives Hilda only 20 reps, and not all the turnips collected.
+- You can tell Lord Hagen 'I put on an Eye!' only if PC really put on the Eye of Innos.
+- During the training, PC Alrik stands up and turns to him.
+- PC can tell Bilgot that he came from the castle only after talking to Garond.
+- A PC who has become a mercenary or a dragon hunter does not ask Akil 'How do I find Onar's farm?'.
+- Changed the conditions for the appearance of dialogues between PC and Merdarion about teleportation stones.
+- Is it possible to say about the lizard people only starting from Chapter 4.
+- Fixed various logic violations in PC's dialogues with Ramon.
+- If PC gets into the gang camp without killing Franco, he will ask Carlos 'How are you?'And not 'And how do you like being the commander of the hunters?'.
+- If Senyan finds out about Esteban's death, he will attack PC.
+- After Esteban's death, Juno will not talk about the high price of bandit armor.
+- Esteban will tell PC that Franco was a tough nut to crack only if he died.
+- Logan started teaching skinning reptiles, not skinning.
+- Slightly redesigned learning algorithms from Logan and Edgor.
+- PC can tell Torus to let the prisoners leave only after talking to Patrick.
+- Torus will attack PC if, instead of distributing stones to the miners, he kills the guard at the entrance to the upper camp.
+- Now you can see the cooking process of the flame slicing Snafu.
+- Before Greg returns, Morgan drinks rum instead of gin.
+- To study the recipes of Embarla Firgasto and all types of alcohol, knowledge of the basics of alchemy is necessary. A corresponding inscription has been added to the description of these recipes.
+- The ingredients for making 'Quick Herring', 'Hammer Lu' and double Hammer Lu' have been brought into line with the recipes.
+- There are no more paladin runes in the inventory of the knights who guarded the Passage before Chapter 3.
+- During the battle, the paladins began to heal themselves with magic.
+- PC can inform Garwell about the death of an orc scout in the forest near the city.
+- Fixed the inability to get the 'Blood Cups' quest from Cassia if PC was accused of theft.
+- The 'Destruction of Evil' spell deals damage to the black magician.
+- The production of 'Embarla Firgasto' has been moved to the 'Special Potions' section.
+- If Canthar is dead or PC has not yet received the task to frame Sarah, then Lord Andre no longer reports that this merchant came to him.
+- Fixed a bug where Lord Andre activated Canthar's revenge, even if PC had already framed Sarah.
+- Monsters scared by the 'Fear' spell no longer use human animations (thanks to ElderGamer).
+- If PC does not have enough ingredients to make the 'Ice Block' and 'Undead Destruction' runes, then the runestone is returned to his inventory (thanks to ElderGamer).
+- Girion and Parcival attack PC in order to kill him.
+- Added a check on the victim's obsession with pickpocketing an item from an NPC.
+- Instead of closing in Chapter 4, the quests 'Wanted Notices and Bandits' and 'Replacement for Lares' will be successfully completed in dialogues with the corresponding NPCs.
+- Now, when buying swords from PC, Garad always takes the correct amount of these items (thanks to Dimmell).
+- Restored the missing voiceover of PC phrases in dialogues with the following NPCs:
+'I have to go!': Serpentes;
+'I have to go.': Boltan, Jorah, Lennar, Malet;
+'I'll see you later.': Carlos, Senyan;
+'I'll be back later...': Fortuno;
+'Is everything okay?': Possessed NPCs;
+'Maybe later...': Jesper, Cassia, Ramirez.
+- The following NPCs have changed their guild affiliation:
+Jesper, Telbor in Khorinis - a tramp;
+Pardos and Tonak in Jarkendar, Fed and the unnamed convict in the Faget mine - the convict;
+Gaan, Cavalorn, Orlan the peasant;
+Greg in Khorinis is a pirate;
+Martin, Mika - militia;
+Cord is a mercenary;
+Alrik, Canthar, Lares, Elvrich, Myxir in Khorinis - a citizen;
+Egill, Ehnim is neutral;
+Vatras on Irdorath is a Water Magician;
+Marcos, Tengron, Fudget and 2 unnamed knights at the Marcos mine - paladin.
+- Changed the combat tactics of the following NPCs:
+Agon, Akil, bandit from the Brago gang, Bilgot, Vino, Igarats, Rick, Rumbold, Salandril, Sekob, Ulf, Egill, Engardo, Ehnim.
+- Also changed the behavior in battle of young goblins and wolves, meat beetles, various types of rats and scavengers.
+- NPCs no longer sell quest items:
+Sagitta - Solar Aloe and Tekla Pack;
+Luther - claws of the leader of the pack of snappers;
+Karras is a stone from the consecrated earth;
+Juno - a package with steel;
+Coragon - Valentino's Ring;
+Fisk is a package with lock picks.
+- PC gives the following items to the NPC:
+Hanna - a very old card (taken from MiniMod Balance);
+Buster - 5 coins for information about Sentenza;
+Pedro - a precious statuette if he became a militia or a mercenary;
+Vatrasu - a letter with Raven's orders;
+to Lord Hagen, the diary of Cornelius.
+- Items received from PC no longer remain in the inventory of the following NPCs:
+Buster Gorns of mrakoris (taken from DNdR Script Patch);
+Vasily - old coins;
+Yang - Dragon's blood and dragon scales;
+Abuyin - honey tobacco;
+Francis - the book of payments;
+Bennet - Dragon Scales;
+Girion - Rings of the Orc Leaders;
+Edda the Fish;
+Serpentes - fake shares;
+Pedro is a precious statuette;
+Gift - mushroom tobacco;
+The judge is the hammer of Innos;
+Pepe - Gold (taken from Gothic 2 Classic Mod Fix);
+Saturas in Khorinis - an ornament;
+Neoras are plants for potions.
+- The following information is entered in the diary:
+about Edgor's study of extracting the secret from the sting of a blood fly;
+about Cavalorn's task after the destruction of the Brago gang (taken from the mod 'Runes');
+when reading the recipe 'Embarla Firgasto';
+when reading all the addon recipes;
+when reading Judge Morgahard's letter;
+about winning or losing a bet on holding the sword of the Genus;
+about the success or failure of pickpocketing;
+that Grimbald teaches butchering animals (taken from Gothic 2 Classic Mod Fix);
+that Grom teaches butchering animals, Dragomir teaches crossbow shooting, and Bill teaches pickpocketing;
+when Pedro on Irdorath tells about the secret passage in the hall of the Colonel of the Orcs.
+- The following actions no longer result in a repeat entry in the diary:
+reading the recipes for 'Pure Mana', 'Pure Health' and the Black Magician's scroll (taken from MiniMod Balance);
+choosing the dialogue option with Lares 'Tell me what you know.' (taken from MiniMod Balance);
+The question to Gaan is 'How is the hunt?' before the destruction of the snorting beast (taken from MiniMod Balance);
+Please increase Mortis' strength;
+reading the diaries of Cornelius, the novice of the black magician and Lucia's farewell letter;
+the consent of the Genus to join the PC to the mercenaries;
+Randolph's request to bring him the medicine for Sagitta;
+trading with Cronos in Khorinis;
+Jorgen's offer to become captain;
+a conversation with the guard at the southern gate of the city, if PC has not agreed with him about the passage;
+conversations with Akil, Kati, Randolph and Alvarez while the mercenaries threaten Akil;
+An offer to fight Alrik if PC hasn't brought his sword yet;
+Saturas is asked to give PC a ring activating the portal before he receives a letter from Vatras;
+Please give Bonesus and Greg the bandit armor to PC before getting permission from Greg;
+a question for Bosper and Garad about agreeing to become a disciple of another master;
+The message to Cipher in the Mine Valley is 'The Swamp Dragon is dead.';
+reading the almanac in the secret basement of the monastery;
+Lobart's question about the cost of work clothes after the maximum reduction in its price;
+Lee's message is 'I'm ready to join you.' before talking to Onar;
+Malak's offer to return to the Bengara farm;
+messages to Angar, Bennet, Gorn, Diego, Lee, Milten and Vatras that PC knows where the enemy is hiding;
+when PC finds out that Alrik, Carl and Lares are teachers, and Ibrahim, Ignaz and Cardiff are merchants;
+Kordou's statement 'I want to become a mercenary!' before upgrading your melee weapon proficiency;
+a question to Riordian about the location of the five palaces of Jarkendar;
+when Rod bets 30 coins that PC will not be able to lift his sword (taken from Gothic 2 Classic Mod Fix).
+- The names of the following objects have been changed:
+the original names from Gothic have been returned to the Orc weapons;
+cutlasses, knives, and pikes (scimitar, cutlass, and axe);
+reptilian hide, stone sentinel, and summoned stone sentinel (reptilian skin, stone sentinel, and summoned sentinel);
+the spells 'Shrinking the Monster', 'Creating a Skeleton', 'Creating a guardian' and 'Creating a Zombie' ('Reducing the monster', 'Summoning the Skeleton', 'Summoning the Guardian' and 'Zombie Challenge');
+Crossbow and Bilgot's escort quest to the Passageway (Militia Crossbow and Bilgot's Escape);
+at the purse of the bandit leader in a cave behind the forest to the west of Lobart's farm;
+the 'Dragon Fire' parameter in the PC characteristics window ('Fire');
+some armors, rings, amulets and belts;
+Orc warblades (ore warblade and heavy ore warblade);
+sheep and young goblins got their own names;
+incorrect names of objects in the dialogues between PC and Halvor (subtitles only);
+the names of the spells 'Arrow of Death', 'Ball of Death' and 'Arrow of Concussion' have been translated;
+for various types of urban and peasant clothing (thanks Nastasanna);
+interactive objects ('Ore Mine' and 'Gold Mine');
+The armor of Angar, Bloodwin, Diego and Lester are no longer nominal;
+at the ghostly Light ('Will-o'-the-Wisp');
+at the Herald in Khorinis ('Herald');
+at the ordinary wolf knife without a bonus ('Old Wolf Knife');
+The Bloodhound ('Bloodhound');
+the nameless sword, crossbow and bow ('A simple forged sword', 'Assault Crossbow' and 'Mercenary Bow');
+the cure for alcoholism ('Hangover Cure', which it is according to the quest);
+all switches have ('Switch');
+at the Empty Runes ('Runestone');
+the gold bars in dialogue with Crimson ('Gold Nuggets');
+the nameless two-handed sword ('Reinforced Two-handed Sword');
+the statues of Beliar and Innos ('Altar of Beliar', 'Altar of Innos');
+at the club with spikes ('Stick with nails');
+at the gate ('Winch');
+at goblin berries ('Goblin berry');
+at small skeletons and skeletons ('Skeleton' and 'Skeleton Warrior');
+at the rough broadsword ('Broadsword').
+- Messages no longer overlap:
+about giving Baltram wine and hams (taken from the PowerGamer patch);
+about receiving bread, milk and water from Katya;
+about giving milk, bread and ham to Grom;
+about receiving from Milten the key to the entrance to the Innos monastery;
+about receiving stone tablets from a hermit;
+when mining gold;
+when transferring Innos's Eyes to Vatras;
+when transferring plants to Neoras.
+- Changed the daily routines of the following NPCs:
+Khorinis: Alrik, Attila, Balthasar, Bengar, Boltan, Borka, Bromor, Bronko, Vanja, Garvig, Greg, Grimbald, Grom, Dexter and the bandits in his camp, Diego, Dragomir, Elena, Zuris, Jorgen, Cavalorn, Karl, Karras, Constantino, Coragon, Cornelius, Xardas, Lester, Malak, Mika, Milten, Moe, Monty, Nagur, Neoras, Niklas, Opolos, Orlan, Parlan, Patrick, Pepe, Raoul, Regis, Rosi, Rukhar, Randolph, Cedric, Sentenza, Sergio, Skip, Sonja, Talamon, Talbin, Telbor, Till, Tonak, Farim, Hanna, Hyglas, Edda, Elvrich, a city guard, a knight in the upper quarter and a couple of mercenaries at Onar's farm;
+Jarkendar: Greg, Logan, Morgan, Senyan, Tom, Fisk, Francis, Edgore, Emilio, Esteban and his bodyguards, several guards and bandits;
+Mine Valley: Angar, Bullco, Godard, Gorn, Kjorn, Kurgan, Orik, Parcival, Reton, Sengrath, Ferros, Hokurn, several convicts in the castle;
+Irdorath: Angar, Girion, Diego, Lares, Lester, Mario, Milten.
+- Fixed various bugs in SVM, PC dialogues with NPCs and item descriptions.
+- Now NPCs watching the fight are less likely to get hung up when encountering an obstacle (thanks to ElderGamer).
+- Partial optimization of scripts has been carried out.
+- There are more different screams of pain and death in the game. Screams from women and Seekers are involved.
+- The state of alcoholic intoxication in PC is involved (thanks to MEG@VOLT).
+- Changed the color of the blood of insects, removed the blood of demons, added an effect when hitting the skeleton of mrakoris (thanks ElderGamer).
+- Fixed bugs in the functions of improving Beliar's Claw and creating trading inventory at Cardiff and Vatras on Irdorath (thanks to Zorres).
+- You can get a bonus for jumping into the pit only after PC learns from Owen about Malkom's disappearance.
+- The guards at the main gate and at the entrance to the house of the ore barons are now sent to Commander Garond, and not to Lord Andre.
+- After Pedro informs PC that the fire nettle grows on the other side of the bridge, an additional plant will appear there.
+- Shadow Lord Archol has protection at the level of other shadow warriors and lords.
+- Dobar tells Parlaf to sharpen swords better only while working in the forge.
+- When loading the game, weapons no longer appear in the paws of dead goblins (thanks to ElderGamer).
+- If the PC who became a mercenary took gold from Milten and Diego to free the Forge, and also found his wallet at the suggestion of the Forge, then he will receive the old mercenary armor as a reward (thanks to Zorres for the new armor).
+- May I ask the Herald, 'Do you ever sleep?'only until Garond gives the order to release Gorn.
+- Until he returns to the city, Elvrich will not respond to the threat of weapons. After returning, PC can ask him 'Is everything okay?'.
+- The 'tough guys' no longer respond to the threat of long-range weapons.
+- Now NPCs sleep with their eyes closed (thanks to ElderGamer). They always open their eyes after waking up (thanks to Desomorphine).
+- Did you find out anything new after answering the question? Igarats moves closer to the magic golem.
+"Can I ask Daron if she's with the goblins now?"'only if the precious statuette is in the possession of the black goblin.
+- Fixed a bug that prevented PC from informing Hyglas about the creation of the 'Fire Arrow' rune.
+- Garvig always starts a conversation about the loss of the sacred hammer, if this hammer is in the inventory of the PC.
+- Praying for the Paladins no longer cancels Sergio and Babo's training.
+- After receiving permission from Pirocar to take the book of Xardas, Talamon's daily routine changes.
+- The text of most books and documents fits into the fields reserved for them.
+- It is no longer possible to re-receive possessed almanacs from the following NPCs:
+Khorinis: Bromor, Vino, Malak, Randolph, Sekob;
+Minenthal: Brutus, Engrom.
+- Significantly reduced the chance of increasing the number of items when getting damaged while interacting with them (thanks to ElderGamer).
+- All unused additional dialogues between PC and Lothar are involved.
+- Restored the ability to get extra chowder from Thekla if PC told her 'I'm hungry!'being a neutral or a militia member.
+- Now PC, who is in the form of a beast, will have the level of this beast. After returning to human form, improvements in the level and health of the beast will be taken into account.
+- Fixed several bugs when using PC spells to transform into various beasts (thanks to ElderGamer).
+- Increased the number of phrases that fleeing NPCs can utter.
+- Friends will attack PC if they see him in the form of a beast.
+- PC can tell Cavalorn 'The bandits are finished.'even if I promised to help him deal with the bandits, but I did it on my own.
+- Additional phrases have been unlocked at the innkeeper in the Square of Justice and in the dialogues of PC with Sagitta, Jarvis and Ulf.
+- You can tell Cipher that Dar sold the bale in the city of Khorinis only if PC finds out from Dar or Cardiff.
+- Beating Sentenza no longer blocks the opportunity to get his vote to join the PC mercenaries.
+- Assistance in obtaining money and protection from Mo attacks no longer negate the possibility of receiving tips from Lares about the best armor and weapons.
+- Fixed numerous discrepancies between subtitles and voiceover in SVM phrases (thanks to Black_Phantom).
+- Henry will say PC 'So the captain has given you your own squad at your disposal.'only if at least one pirate goes into the canyon with PC.
+- Scatty will teach PC until the gold mining skill is 100%.
+- You can offer to try mushroom tobacco to Dar and herbal tobacco to the gardener only after the first conversation with them.
+- You can only tease a Bronko when he's working in the field.
+- Henry no longer repeats the question 'Are you a friend or an enemy?' when he stops PC at the entrance to the pirate camp.
+- PC can tell Esteban, 'Do you want to fool me?'only if his bodyguards really go to the tavern.
+- PC looks at a piece of paper with his image after receiving it from a bandit from the Brago or Pablo gang.
+- Shows the number of multicolored stone tablets given by Saturas to solve the mysteries of the temple.
+- When Farim finds out about William's death, he will drink his share in a pub in Cardiff in the evenings.
+- The display of prices for various items has been put in order.
+- Fixed the sequence of dialogues with Bennet about repairing Innos' Eye.
+- Till and Balthasar will stand by while the Seekers are in Sekob's house.
+- Jorgen no longer loses animation when he shows PC the direction in which Pedro ran away.
+- May I ask 'What are the plans?' Diego's in Khorinis only after he mentions them.
+- Added effects when taking damage with fire and magic weapons (partially taken from the Guild mod).
+- Changed the damage calculation for long-range fire and magic weapons.
+- Ferros no longer stops the dialogue if PC asks him 'What will you give me if I find your sword?"
+- The quest 'The Power of the Guardians of the Dead' will be successfully completed after PC learns from Saturas about the halls of Adanos.
+- Expanded the list of NPC facial expressions (taken from the Gothic Mod Fix).
+- If PC has beaten an NPC, then he recognizes himself weaker regardless of the level. If PC is in the form of a beast, then the level of the beast that PC turned into is taken into account (taken from the Gothic Mod Fix).
+- The possibility of death in battle with Akil and Katya's mercenaries has been unlocked. Fixed bugs that prevented the successful completion of the "Farmer in Need" quest if Katya or Randolph became the owner of the farm.
+- The peasants are running away from the possessed Malak, not from the PC.
+- Malak will not return to Bengar's farm as long as there is a Seeker near his hiding place.
+- If, after Lares's hint on how to get good armor, PC and Zuris do not have the 'Dream' scrolls, then Zuris will have an additional scroll with this spell on sale.
+- The city guard guarding the warehouse behind Matteo's store lets the Fire Mage in.
+- You can't ask the guard, 'Why is no one allowed to enter this warehouse?'after getting permission to enter.
+- The protection parameters of various types of urban and peasant clothing have been changed.
+- Now zombies do not try to eat the bodies of their victims, as they do not have the appropriate animation for this.
+- Wolves do not react to a fight with other wolves, wild boars do not join PC in the guise of a wolf who killed their kinsman (thanks to ElderGamer).
+- Attached wolves no longer die after the end of the summoned creatures' lifetime. After the PC returns to human form, they become hostile (thanks to Desomorphine).
+- Improved algorithms for de-synchronizing actions and changing routines for various monsters (thanks to ElderGamer).
+- If the task of delivering wine to Orlan was failed, then Gorax will trade with PC only the next day. And for completing this task, he will give a scroll of treatment for medium wounds.
+- Sheep have appeared in the castle of Mine Valley. In the following chapters, their number will gradually decrease (thanks to Desomorphine).
+- Attila no longer says that PC does not have a weapon if he is already holding a weapon (thanks Desomorphine).
+- The prices of various types of tobacco have been increased so that its production does not bring losses.
+- If PC brings several types of Orc weapons, then Garad will take the best, study it and equip it. PC and Ferros will do the same after they receive the sword.
+- Increased the number of phrases in case of unsuccessful reading of stone tablets or music stands.
+- Elvrich, who is being held captive by bandits, no longer carries a weapon. He only equips himself with an axe when he goes back to the city.
+- Elvrich's reading of Lucia's letter does not block the opportunity to tell him 'You have to go back to the city!"
+- PC will be able to tell Vatras about Lucia only after reading her letter to him or Elvrich.
+- Improved models for various bows and crossbows, added sound effects of pulling and releasing the bowstring (thanks to ElderGamer).
+- Moving to the side while intoxicated no longer results in being kicked out of the game (thanks to ElderGamer).
+- Increased the volume of urine emission sound effects.
+- NPCs will not talk to a PC turned into a beast.
+- The first conversation with Hodges begins with PC.
+- The possibility of pickpocketing from Alvarez and Engardo has been unlocked. If PC provokes an attack, the fight will begin after the end of the conversation with him.
+- The bandit from Brago's gang no longer goes to the Cavalorn parking lot when its owner is still there. He will come there at the beginning of chapter 2.
+- Rick advises PC to talk to Rumbold only if this NPC is alive.
+- Removed unused in-game daily routines for the following NPCs:
+Khorinis: Agon, Opolos, Rick, Rumbold, Sentenza;
+Mine Valley: Bullco, Sylvio, Tengron.
+- Restored the voiceover of the phrase PC 'I will never be able to open this lock!' (thanks to Black_Phantom).
+- PC removes the burning torch when smoking joints and working with gold and ore veins (thanks to ElderGamer).
+- Diego will continue PC's training after he is included in the ship's crew.
+- Quests for joining mercenaries and militia are canceled when you join acolytes, not Fire mages.
+- Cavalorn will become an ally only when PC tells him 'Let's go deal with these guys.'.
+- The stone tablet under the textures in the center of the Mine Valley castle is now in the right place (thanks Kvincius).
+- When PC returns the bow to Bosper, Regis will tell the whole story of the theft of this item, if he did not tell it before (thanks to Black_Phantom).
+- Thekla will tell PC that she warned about Sylvio and Bullco only if she really did it before.
+- You can ask the hermit about life or stone tablets only after the first conversation with him.
+- After receiving the clothes, the hermit will not say that he will not give the tablets to PC (thanks Kvincius).
+- To put on the ring of the orc leaders, you need to have at least 20 units of strength (partially taken from Gothic 2 Classic Mod Fix).
+- Mika leads the player to Akil's farm, rather than running there alone.
+- Experience is no longer given for killing creatures summoned by PC and beating his companion.
+- Creatures caused by PC die in case of death or loss of their master (taken from Gothic Mod Fix).
+- Summoned golems and demons have become neutral to summoned golems and demons, except for the enmity between summoned golems and demons.
+- Since Diego teaches not only dexterity in Khorinis, his answer has been changed to 'Of course. What do you want to know?'.
+- Fixed translations of Cavalorn's phrase when PC finds his bag of ore (thanks to Zorres) and PC's question to Owen after Malkom's disappearance.
+- Instead of closing in Chapter 6, the quest 'Horns of Darkness for Buster' will be successfully completed after Buster reports the death of the merchant who bought these horns from him.
+- Baltram's errand boy and his death are realized after a corresponding conversation with Nagur.
+- PC can ask Katya to feed him or give him a package for Baltram only after he asks her 'Are you all right?'.
+- After receiving the pan, Hilda always ends the conversation with PC.
+- PC can tell Onar or Pepe that he wants to buy a sheep only when he learns from Pedro or Ulf about the conditions of joining the monastery.
+- Can I ask Bengar about Onara only after the question 'How do you make a living?'.
+"After saying, 'I don't mind if you ask the others about me.' Bronko ends the conversation with PC.
+- After receiving his crossbow from PC, Dragomir is immediately equipped with it.
+- If PC does not help to drive the mercenaries from Akila Farm, then in chapter 4 the quest 'Farmer in Need' will be canceled and the mercenaries will return to Onara farm.
+- Added the possibility of a peaceful resolution of the problem of Bengar with the militia.
+- Now, during a conversation with PC, only a part of the bandits will grin hostilely.
+- Expanded the set of spells that Fire and Water mages, as well as paladins, can use in battle.
+- Various types of skeletons began to put away their weapons (taken from Gothic 2 Classic Mod Fix).
+- Items for interacting with interactive objects will be removed from NPC inventories (taken from Gothic 2 Classic Mod Fix).
+- Arms dealers remove all weapons equipped by them before starting trading with PC.
+- If Brandon or Skip die in a battle with Razortooth, their active quests will be canceled.
+- The description of the drink 'Fast Herring' has been changed. PC will be able to buy this drink and the recipe for its manufacture after he tries it himself.
+- Information about the health bonus has been added to the description of the flame slicing.
+- Esteban's bodyguards are running to meet Fisk.
+- When using sets of healers and priests, the current health and mana change simultaneously with the maximum.
+- The items 'Wait here!' have been added to the dialogues of PC with the sheep stolen from Akil!'and 'FINISH' (taken from Gothic 2 Classic Mod Fix).
+- Increased the chance of Vino's survival during the battle with the Seekers in Chapter 3.
+- Neoras can tell PC that he is conducting a very complex experiment only if he works in a laboratory.
+- PC can tell Neoras, 'You're working so hard you're even sweating.'only if this Fire mage works in a laboratory.
+- After answering the question 'How are you?' Agon ends the conversation with PC.
+- Karras always starts a conversation with PC if he goes to the library instead of chasing Pedro.
+- Fixed the translation of the diary entry about where Den might have gone.
+- There is no more raw meat in the inventory of summoned wolves.
+- Bartok is not wearing a simple city suit, but leather armor.
+- You can ask Elena about fake promotions only after PC finds out that she sells various food.
+- PC can ask Biff again, 'Would you like to take a little trip around the world?'.
+- Ur-Shak is armed with an axe, like the rest of the Orc shamans.
+- After the death of Hosh-Pak, Ur-Shak replies, 'Friend, it's better to leave the passage.'only if PC addresses him.
+- One of the lizards on the island with a hiding place no longer appears in the rock or under water.
+- Garad has been removed from the list of merchants, and Kjorn has changed his trading inventory, taking into account the fact that he appears in chapter 4.
+- The spell 'Breath of Death' deals half of the damage to the dragons and the hero (thanks retej).
+- All teachers who enhance the attributes or combat skills of the PC operate only with the real values of these parameters.
+- PC will not be able to buy a sheep from Pepe or Onar again if he took it to the Strip (taken from Gothic 2 Classic Mod Fix).
+- Fixed a bug when displaying the PC skills window (thanks Traven).
+- Fixed the camera position when interacting with beds and benches (thanks to ElderGamer).
+- Restored the missing texture of the Raven Guard armor (thanks D36).
+- Added new models and textures for royal sorrel, snapper grass and solar aloe (thanks D36).
+- PC can tell Dexter that he is distributing wanted notices only if he really knows it.
+- Lemar will notice the missing debt book the next day or later.
+- Fixed the model and texture of the golden compass, now it is actually golden (thanks D36).
+- Scrolling the contents of chests with the mouse wheel does not change the camera position (thanks D36).
+- Fixed the lack of music in the snowy part of the Valley of Mines, as well as on Irdorath in the cave of Feodaron, halls with a black magician and with a dragon-undead (thanks D36).
+- Fixed the Horinis world file (thanks Kvincius):
+- Clothes are no longer stacked in a chest behind Matteo's house;
+- a ring that had fallen through the bag in one of the stone circles was pulled out;
+- fixed an ore vein in a cave near Dexter's bandits that could be used without a pickaxe;
+- about 1,600 extra landfills have been removed in the area of the port of Khorinis;
+- fixed the mesh - holes were plugged, texturing was fixed, and there were fewer trees hanging in the air;
+- added invisible polygons near Dexter's tower so that bandits would fall off the cliff near it less;
+- the model of the armor hanging on the wall in the barracks has been replaced: now it really is the armor of the militia (thanks to D36);
+- the morgue has been expanded so that the bodies of the characters no longer fall outside it;
+- A network of waypoints has been added to the treasure island of thieves.
+- Fixed the Jarkendar world file (thanks to Kvincius):
+- fixed carelessly placed objects in the game world;
+- objects that fell under the bag have been restored;
+- fixed the cdDyn parameter (permeability) for the required objects;
+- fixed chest visuals. A closed chest is for a chest with a lock, an open chest is for a chest without a lock, respectively;
+- fixed the grid of waypoints in some places;
+- the smoke is no longer tied to the fire, which is why it could fly off its coordinates;
+- fixed the mesh - holes were plugged, texturing was fixed;
+- the sound of burning of some fires was added. gorenje;
+- added light sources to some candles, as well as torches in the mine;
+- Missing visual effects have been added to the torches;
+- It no longer rains in caves\rooms;
+- you can no longer sit on the chair next to Skinner, because there is a skull on it;
+- added permeability to foliage of several tree species;
+- A barrel has been added near the stone structure where the water magicians have settled, so that you can jump on the roof;
+- about 3,000 extra polygons in the swamp have been removed.
+- Fixed the Mine Valley world file (thanks to Kvincius):
+- fixed carelessly placed objects in the game world;
+- partially restored objects that fell under the bag;
+- fixed the permeability of the required objects;
+- expanded the network of waypoints in the forest near the Marcos mine;
+- stairs have been returned in some places;
+- The missing pfx effects have been restored;
+- fixed chest visuals: closed - for a chest with a lock, open - for a chest without a lock;
+- Dobar and Parlaf don't get stuck on the way to the forge in the morning;
+- The trigger of the dragon attack video was moved so as not to intersect with the cave on the mountain;
+- fixed a grid of waypoints in some places, and also created in the tower of Xardas and around the castle;
+- the smoke is no longer tied to the fire, which is why it could fly off its coordinates;
+- PC no longer walks on water and under water in the area of the fort;
+- added permeability for foliage OW_LOB_DEADTREE_07.3DS;
+- added the sound of burning to some bonfires. gorenje;
+- wooden beams no longer stick out of the roof, walls and floor of the castle;
+- PC no longer gets stuck when descending the ram;
+- a bed has been added to the house of magicians;
+- fixed the volume of some sounds;
+- The rivers are now in motion, the current has been returned;
+- The sound of water flowing has been replaced with the sound from Gothic 3;
+- The Irdorath Island world file has been fixed (thanks to D36 and Kvincius):
+- the door to the captain's cabin has been unlocked, so the key to this door is not removed from the inventory of the PC;
+- an extra transition trigger leading to Irdorath and rebooting the world has been removed in the captain's cabin;
+- The chest in the captain's cabin opens with animation and sound, its model is impenetrable;
+- several models hanging in the air have been moved;
+- fixed the permeability of the required objects;
+- A waypoint has been deployed, where PC appears after defeating the undead dragon;
+- fixed the lack of textures in the undead dragon cave;
+- added sounds to bonfires and torches;
+- added shackles for skeletons hanging on the wall;
+- texturing has been fixed, holes in the mesh have been repaired;
+- fixed a bug where PC could fall into the ground, flying away from the dragon's fire;
+- fixed the flicker of the mesh, which could be seen at certain camera angles;
+- fixed missing inventory background;
+- added the altar of Beliar;
+- arrows and bolts now actually fly into levers, rather than hitting the tower.
+- The size of a leather wallet containing 10 coins has been reduced too much.
+- In chapter 2, Milten will teach PC the 2nd circle of magic only if he knows the 1st circle.
+- Changed Bennet's phrase when learning how to forge ore swords from him in Chapter 3.
+- When PC is looking for a marsh grass merchant in the port quarter, the NPCs check him for equipment with all the armor of the militia.
+- Fixed textures of medium and heavy mercenary armor in the inventory. They used textures from G1 with blue elements that are not present in G2 (thanks D36).
+- The black magician on Irdorath wears his mantle, not the mantle of a necromancer (thanks D36).
+- Biff attacks Bullco or Sylvio at the end of the corresponding dialogue after killing the ice dragon.
+- Juan attacks PC with his friend.
+- Fixed a bug that prevented some monsters from switching from melee mode to magic attack mode (thanks unknown111).
+- PC can ask Gaan about hunting and animal butchering training only after he finds out that Gaan is a hunter.
+- After killing the snorting beast and learning the appropriate skill from Gaan, PC will receive 2 dragon snapper horns.
+- PC can provoke Franco into a fight only if Ramon is alive.
+- If PC kills Ramon, then Carlos will take his place at the first conversation with Esteban.
+- Added the ability to give Pardos 'Pure Health', as well as increased experience for giving him this potion or meat soup.
+- Fixed a bug where PC could only tell Pardos once that he would give him a healing potion.
+- The slaves leave the gold mine only after PC finishes talking to Patrick.
+- The weapons that are created by disarmed NPCs now directly depend on their guild.
+- Unused visuals for the broken and discharged Eye of Innos are involved (thanks D36).
+- Models of boar and varg skins have been fixed, models of ice wolf and black troll skins have been added (thanks D36).
+- Ice wolf skin has been added to the trophy list and can be sold at an increased price to Bosper.
+- PC will not pay Cassia for the opportunity to learn a skill that he learned from another teacher.
+- The hangar will tell PC about the magical creature guarding the cave in the rocks only if the skeleton of mrakoris or the skeleton magician is alive.
+- After the Herald passes the note to the Forge, this item no longer remains in his inventory.
+- Starting from Chapter 3, Garond's daily routine will change.
+- PC can tell the knight guarding the entrance to Garond's headquarters, 'Report, soldier!'only if he is a paladin.
+- During the rest in the barracks, Mika will not talk to PC.
+- PC can ask Mika 'Is everything quiet?'if the mercenaries left the Akil farm on their own.
+- When Vatras goes to the Circle of the Sun, only the daily routines of the living Seekers who used to be there will change.
+- In chapter 3, the peasants from the Sekob farm will return to their business only after PC finishes talking with Sekob.
+- PC gains experience for killing a magical golem with a sacred hammer.
+- The description of the sacred hammer now displays its price.
+- The charged Eye of Innos and the divine aura of Innos show the protection parameters given by these amulets.
+- Talbin will tell PC about the funny guys only after the dragon hunters come to the parking lot by the river.
+- Bullco can take PC to the other dragon hunters only after they arrive at the parking lot by the river.
+- Added the price of a good dagger: now it costs 2 times more than usual.
+- Fixed a bug that prevented Vatras from handing over stone tablets (thanks D36).
+- Bandits began to actively look for places around campfires and get into position (thanks ElderGamer).
+- Unused visuals are used for the magic staff and staffs of Ultar, Fire and Water magicians (thanks D36).
+- Fixed models of 'Ring of Water' armor, pirate clothing and armor, mantis and Bloodwin heads, fish soup, milk, mandibles of a field predator and a crawler, a crawler shell plate, dragon scales, batons of wind and storm, Irdorath gate, alcohol from the addon, a rough short sword (thanks D36).
+- Added new models fire and magic arrows, magic bolts, lamb sausage, Coragon beer, flame slicing, chowder of Thecla and steaming meat, quick herring, two hammers of Lu and bloody cups (thanks D36).
+- After the expulsion or destruction of the militia, PC can immediately tell Bengar that Balthasar will use his pastures again.
+- Donations to Adanos will reduce PC's sins for killing people before Vatras warns him about it in Chapter 5.
+- PC will be able to make a donation to Vatras only after telling him the truth about himself.
+- Till's quest will be successfully completed if PC forces Bronko to work before he receives this task.
+- Rega will tell you about the Bronko before PC finds out about it from Babera.
+- The fire golem has reduced protection from magic, the ice golem has reduced protection from fire, and the swamp golem has reduced protection from crushing damage.
+- A way to bypass the Cavalorn bug has been added to the SH assistant menu (taken from G2MDK).
+- Fixed animations of combat with one-handed and two-handed weapons (thanks to Zorres):
+- you can no longer call out opponents, dealing damage without playing animations when completing combos;
+- for the master of one-handed weapons, the neck twitching in the combo animation and the position of the weapon in the hand for a side kick have been fixed so that it does not pass through the left hand of the PC.
+- Fixed the operation of the equipment and removal functions for Morgan's ring, wind and storm batons (thanks D36).
+- PC can tell Diego in the Mine Valley 'Listen, I need proof.'only in chapter 2.
+- The rune forgotten by the developers with the playful spell 'Inflating people' has been restored. It can be found in the inventory of the pc_rockefeller test NPC.
+- Fixed confusion in the materials of the knight's armor, now their textures will not mix with other models (thanks to D36).
+- Unused models of stone tablets and various belts are involved, several new belt models have been added (thanks to D36).
+- PC's state of intoxication occurs only if he has the maximum values of life and mana.
+- Now the double hammer of Lu really knocks down anyone who tries this drink.
+- The pack leader has protection at the level of other snappers.
+- The function of issuing experience began to work with negative numbers.
+(source: [worldofplayers.ru/threads/36817](https://worldofplayers.ru/threads/36817/))
