@@ -13,72 +13,72 @@
 - If the PC got into the sewer without Attila, he will not mention him in a conversation with Jesper.
 - Cassia will not mention Attila if the PC fell into the sewers before he appeared in the world.
 - Fixed a skeleton appearing at a non-existent point in the Mining Valley.
-- If Nadya is dead, then Bromor will offer gold as a reward for the dish instead of a free service.
+- If Nadja is dead, then Bromor will offer gold as a reward for the dish instead of a free service.
 - Questions about grass in the port quarter without cover will lead to failure of the quest 'Trading in grass'.
-- Meldor, Cardif, Borka and Nadya remember the PC armor and will not tell the militia and paladin about the grass.
-- Meldor, Cardif, Borka and Nadya can erase the memory of the PC armor.
+- Meldor, Kardif, Borka and Nadja remember the PC armor and will not tell the militia and paladin about the grass.
+- Meldor, Kardif, Borka and Nadja can erase the memory of the PC armor.
 - Canthar will not reset the animation and will not get stuck on the bench when trading with the PC for the first time.
 - Rod, Cipher, Fester and Talbin will be friendly to the PC not initially, but after certain actions.
-- Bennett will become friendly to PC after his release from prison.
+- Bennet will become friendly to PC after his release from prison.
 - If the black troll is dead, then Grimbald will not mention him before the hunt.
 - If the PC abandons Grimbald while hunting, he will not be able to learn from him for free.
 - Summoned Goblin Skeletons do not attack Meat Bugs.
 - Fixed the inability to remove dragon scales and blood when learning these skills through an assistant.
 - When resetting a character via an assistant, learned Architect languages ​​and Wisp abilities are correctly canceled.
 - The entry for a letter for Vatras will not appear in the diary unless Cavalorn requests its delivery.
-- Bennett will teach blacksmithing on Irdorath regardless of whether PC brought him ore in Khorinis.
+- Bennet will teach blacksmithing on Irdorath regardless of whether PC brought him ore in Khorinis.
 - Female merchants and alchemists will not equip bows that PC sold them.
-- Fixed illogical phrases of Rosie when first meeting her in the fifth chapter in the forest.
-- Till and Rosie cease to be GG's associates immediately after returning to Sekob's farm.
-- The quest 'Sekob's Missing Wife' will not start again if you start it and bring Rosie to safety.
+- Fixed illogical phrases of Rosi when first meeting her in the fifth chapter in the forest.
+- Till and Rosi cease to be PC's associates immediately after returning to Sekob's farm.
+- The quest 'Sekob's Missing Wife' will not start again if you start it and bring Rosi to safety.
 - The list of plants that can be shown to the guard to enter the city at Lester’s prompt has been expanded.
 - The diary contains entries about training with Diego in Khorinis and the Mining Valley.
 - Fixed Sekob's broken line about completing the 'Exiled Farmer' quest for Militia and Paladin.
-- If all of Balthazar's sheep are dead, then the quest 'Forbidden Pasture' will not begin, and the one started will be cancelled.
-- If Balthazar has gone out to pasture, then Rosie will not advise asking him about the location of Bengar's farm.
-- If Balthazar has gone out to pasture, then he cannot be asked about the location of Bengar's farm.
+- If all of Balthasar's sheep are dead, then the quest 'Forbidden Pasture' will not begin, and the one started will be cancelled.
+- If Balthasar has gone out to pasture, then Rosi will not advise asking him about the location of Bengar's farm.
+- If Balthasar has gone out to pasture, then he cannot be asked about the location of Bengar's farm.
 - Stone guards deal bludgeoning rather than cutting damage.
 - A young field predator will not drop out of the cave under the tower of Xardas.
 - Young giant rats' arrow protection has been reduced to adult levels.
 - Fixed the missing comment from the PC in the dialogue with Gorax about delivering wine to Orlan.
-- The PC will only tell Diego and Horn about the abandoned mine if he actually went through it.
+- The PC will only tell Diego and Gorn about the abandoned mine if he actually went through it.
 - The cheese that he requires to start training has been removed from the chest near Talbin.
-- Text has been added to the empty book stands in the old tower of Xardas and the stone tablets in Yarkendar.
+- Text has been added to the empty book stands in the old tower of Xardas and the stone tablets in Jarkendar.
 - Alrik will not start teaching the PC after joining any guild without a duel with him.
 - Fixed duplication of activities in Fester's daily routine.
 - Fixed possible blocking of moving walls of the cache in Valentino's house.
 - The PC will not tell Milten on Irdorath that he does not have the Eye of Innos if he took it from Xardas's bag.
 - Added the ability to reset training points and levels through the character assistant.
 - Added the ability to change the master craftsman through the character assistant.
-- Meldor will not talk about Lemar's services if he is dead or the PC has already borrowed gold from him.
-- Buster's line 'What do you want, slug?' will not interfere with the start of the quest 'Horns of the Auroris for Buster'.
-- Buster's death results in the failure of the active quest 'Horns of the Auroris for Buster'.
-- Fixed the ability to receive a bonus to the price of horns after starting the quest 'Aurorish Horns for Buster'.
-- During training, Buster will not say 'And bring it to me' if the quest 'Aurorish Horns for Buster' has already been completed.
-- The player will not receive experience for the quest 'Aurorish Horns for Buster' in the fifth chapter if he has not brought any horns to Buster.
+- Meldor will not talk about Lehmar's services if he is dead or the PC has already borrowed gold from him.
+- Buster's line 'What do you want, slug?' will not interfere with the start of the quest 'Gorns of the Auroris for Buster'.
+- Buster's death results in the failure of the active quest 'Gorns of the Auroris for Buster'.
+- Fixed the ability to receive a bonus to the price of horns after starting the quest 'Aurorish Gorns for Buster'.
+- During training, Buster will not say 'And bring it to me' if the quest 'Aurorish Gorns for Buster' has already been completed.
+- The player will not receive experience for the quest 'Aurorish Gorns for Buster' in the fifth chapter if he has not brought any horns to Buster.
 - Buster himself will report the death of his merchant in the fifth chapter, turning to GG.
 - An entry about training with Buster is added to the diary.
 - If Sentenza has already spoken to PC or is dead, then you cannot ask Buster about him.
 - The two dead slaves at the entrance to the gold mine are moved from the street to the huts.
 - Fixed non-existent items in Fisk and Skip's chests.
-- Marus and Bennett do not get stuck in objects when changing activities.
+- Marus and Bennet do not get stuck in objects when changing activities.
 - The location of Marus has been improved, now he will notice the PC more often and warn him about Skinner.
-- Orcs near the library of scientists in the Yarkendar Canyon will no longer fall into the ground.
+- Orcs near the library of scientists in the Jarkendar Canyon will no longer fall into the ground.
 - Replaced the map models of Khorinis in the Mine Valley Castle.
 - Fixed duplicate IDs of two convicts, two paladins and two bandits.
-- Sengrat's Crossbow is no longer required to inform Impact of his death.
+- Sengrath's Crossbow is no longer required to inform Impact of his death.
 - The blood fly near the Marcos mine has been moved away from the knight.
-- Added missing light sources to torches and fires in the bandit camp in Yarkendar.
+- Added missing light sources to torches and fires in the bandit camp in Jarkendar.
 - Fixed the ability to give all the lamb sausage to one novice.
 - Swamp golems are not affected by the same spells as other golems.
 - Summoned zombies are not affected by the same spells as other zombies.
 - To attack summoned zombies, magicians correctly choose the 'Destroy Undead' spell.
-- The quest 'Disciples in Khorinis' will not start again in some dialogues with Garad, Constantino and Torben.
+- The quest 'Disciples in Khorinis' will not start again in some dialogues with Harad, Constantino and Thorben.
 - Joe will speak first when PC enters his tower.
-- In dialogue with Hannah, PC will not mention the basement if he did not open the door at the hotel.
+- In dialogue with Hanna, PC will not mention the basement if he did not open the door at the hotel.
 - Fixed inappropriate remarks from Mika in dialogues with the PC mage, paladin and militia.
-- To Miki's question 'Where are you coming from?' The novice player can answer 'From the monastery'.
-- Fixed the inability to pickpocket Enim and Egill after their quarrel.
+- To Mika's question 'Where are you coming from?' The novice player can answer 'From the monastery'.
+- Fixed the inability to pickpocket Ehnim and Egill after their quarrel.
 - Fernando will not start the quest 'Fernando's Business' if the PC refuses the bribe or threatens him with militia.
 - Lucia will not have new beer for sale, since it is mentioned as a rarity in the bandit camp.
 - Fixed the extremely low perception radius of leaders, colonels, shamans and elite orcs.
@@ -88,25 +88,25 @@
 - If Canthar is dead, then Andre will not mention his visit in dialogues about fines.
 - Fixed a possible crash when Fortuno dies from a consciousness alteration potion.
 - Unused animation was used when completing the chase for the main character.
-- Fixed possible simultaneous existence of Greg in Khorinis and Yarkendar.
-- Kord refuses to talk to the GG, wearing the 'Ring of Water' armor in Onar's house.
+- Fixed possible simultaneous existence of Greg in Khorinis and Jarkendar.
+- Cord refuses to talk to the PC, wearing the 'Ring of Water' armor in Onar's house.
 - Fixed the size of the swamp shark skin model.
 - Mario on Irdorath does not belong to the seekers initially, but will change the guild when leaving the ship.
 - When calculating the number of pirates in a PC squad, only living pirates are taken into account.
 - Morgan's comment about the cave with the auroris only adds a journal entry once.
 - Fixed an issue where the Khorinis Barracks theme song would only play once.
-- Erasing the memory of Bullko or Silvio does not cancel the Tekla Stew as a reward for fighting them.
+- Erasing the memory of Bullco or Silvio does not cancel the Thekla Stew as a reward for fighting them.
 - Torlof, Jorgen and Jack do not reset their daily routine with each dialogue with the PC after the orc attack.
-- Agon, Ulf and Igarats will return to the monastery after the test by Fire only if they did not try to kill the GG.
+- Agon, Ulf and Igaraz will return to the monastery after the test by Fire only if they did not try to kill the GG.
 - Activating the trigger in the Trial by Fire cave teleports Agon only once.
-- The names of possessed persons who died before the corresponding chapter will not appear in the almanacs and Pirokar's letter.
+- The names of possessed persons who died before the corresponding chapter will not appear in the almanacs and Pyrokar's letter.
 - The aspect ratio of save screenshots has been changed to widescreen.
 
 ## v25 09.01.2020
 - Added a book called via the console with various statistics of the current playthrough (statsbook);
-- Fixed a crash when inserting any dragon in Khorinis or Yarkendar through the console;
-- The 'Dragon Eggs' quest ends immediately after the last egg is given to Bennett;
-- If the GG's gold mining skill is 100%, then the dialogue with Scutti about training closes after his response;
+- Fixed a crash when inserting any dragon in Khorinis or Jarkendar through the console;
+- The 'Dragon Eggs' quest ends immediately after the last egg is given to Bennet;
+- If the PC's gold mining skill is 100%, then the dialogue with Scotty about training closes after his response;
 - If the PC fought with Alrik the maximum number of times and he said so, then the dialogue about duels closes;
 - You can give Alrik his sword only after he talks about it or asks to return it;
 - Using a new recipe, Constantino's student can brew a potion of 50 mushrooms so as not to eat them individually;
@@ -115,7 +115,7 @@
 - Additional lines have been added to city residents with comments about paying fines to Andre or Hagen;
 - After studying alchemy, you do not need to re-read recipes you have already read;
 - Fixed repeated entries in the diary every time you ask Vatras about other Water Mages and their mission;
-- Fixed illogical remarks in dialogues with Nefarius after activating the portal to Yarkendar;
+- Fixed illogical remarks in dialogues with Nefarius after activating the portal to Jarkendar;
 - If the PC beat Farim and took the aquamarine from him, he will not receive a second one from him for the quest;
 - Fixed discrepancy between Lares' characteristics on Irdorath and Khorinis;
 - The tattoos of Lee, Lester and Ungar that they had in Gothic 1 have been restored;
@@ -127,7 +127,7 @@
 - Lester will not report Mario's betrayal if he died before the orcs attacked the ship;
 - Fixed cases where it became impossible to comment on Lester's suspicions about Mario;
 - The quest 'Armor from crawler shells' will not appear in the diary if the fourth chapter has already begun;
-- Hokarn and Lee will not demand tuition money if the PC has already reached their maximum;
+- Hokurn and Lee will not demand tuition money if the PC has already reached their maximum;
 - Edgor will not endlessly take money from the PC for studying trophies if he does not have enough training points;
 - Fixed possible errors with temporary bonuses when completely resetting a character's characteristics;
 - Fixed possible freezing of the equipped 'Fist of the Wind' scroll after removing items with mana bonuses;
@@ -137,13 +137,13 @@
 - Fixed lack of blood in summoned wolves;
 - Fixed lack of experience for reading the book 'Island' or 'Law on the Island';
 - In the diary, the missing sulfur has been added to the list of ingredients for the 'Fire Rain' rune;
-- When creating the 'Rain of Fire' rune, sulfur is correctly removed from the GG's inventory;
+- When creating the 'Rain of Fire' rune, sulfur is correctly removed from the PC's inventory;
 - Not only Jesper reacts to the murder of the thieves guild members, but also Ramirez and Cassia;
 - Fixed cases where citizens could react to fights in the sewers by hearing through textures;
 - Added a screen effect when a swamp drone is gassed upon death;
 - The inaccessible spiral clam and meadow knotweed that were behind the texture in the harbor have been restored;
 - If the PC informs Andre about the location of the thieves guild, the militia will occupy the sewer after their elimination;
-- If Hannah dies, a militia will eventually appear at the hotel;
+- If Hanna dies, a militia will eventually appear at the hotel;
 - Fixed the inability to complete the quest 'Forbidden Pasture' when skipping the quest 'Drive away the militia';
 - Help with Malak, Pardos or Wolf is also considered a service to Bengar for the quest 'Forbidden Pasture';
 - Bengar does not suggest asking Malak about the Passage if he is dead or Chapter Three has arrived;
@@ -151,8 +151,8 @@
 - For experience and writing in the diary, it is enough to pick up the broken Eye of Innos; dialogue with the Seeker is not required;
 - Added robes of Fire Mages from Gothic 1, available using cheats (ITAR_KDF_M and ITAR_KDF_S);
 - The armor of demon and orc hunters, available through cheats (ITAR_DHT and ITAR_OHT), has been restored;
-- Until Pardos is treated in Yarkendar, his health will not regenerate outside the player's line of sight;
-- Pardos' weapon skills in Yarkendar have been downgraded to Novice level;
+- Until Pardos is treated in Jarkendar, his health will not regenerate outside the player's line of sight;
+- Pardos' weapon skills in Jarkendar have been downgraded to Novice level;
 - The slave guard does not miss his initial cue if he is the first to be addressed outside the perception zone;
 - Fixed negative mana when removing a magic staff after removing items with bonuses to mana;
 - Fixed the appearance of Lothar's corpse in the upper quarter of Khorinis after becoming a student in the third chapter;
@@ -210,9 +210,9 @@
 - Added the ability to increase the gold mining skill of a character assistant;
 - Added the ability to learn mana and health regeneration skills from a character assistant;
 - Added the ability to learn Seeker Wisp skills from a character assistant;
-- Garad will not say that the PC spent little time at the anvil if he made more than 10 swords on it;
+- Harad will not say that the PC spent little time at the anvil if he made more than 10 swords on it;
 - The PC will tell Pyrokar 'The Eye of Innos is damaged' instead of 'I found the Eye of Innos' if the Eye is not in the inventory;
-- Vatras will not describe damage to the Eye of Innos if it is not in the GG's inventory;
+- Vatras will not describe damage to the Eye of Innos if it is not in the PC's inventory;
 - Information from Pablo about the location of the bandits will be added to the diary only when Hakon's quest is active;
 - When transferring items, their full name is always displayed on the screen;
 - Cavalorn will not call Xardas's tower white - translation error has been corrected;
@@ -221,31 +221,31 @@
 - Fixed blocking the free receipt of Alrik's sword from Jora if you first return his gold;
 - Dragons, trolls, stone guards, harpies and swamp sharks do not try to use non-existent animations;
 - Ruga will not tell the novice that the militia needs new people and will not send him to Andre;
-- Attila will appear in Khorinis if the PC kills Rengar, Halvor and Nagur;
-- Fixed the absence of the GG's comment in the dialogue with Cardif about Attila's appearance;
+- Attila will appear in Khorinis if the PC kills Rengaru, Halvor and Nagur;
+- Fixed the absence of the PC's comment in the dialogue with Kardif about Attila's appearance;
 - The 'Deadly Situation' quest will be closed after Senyan's death, dialogue with him is no longer necessary;
-- Fixed discrepancy between the texts of the open and sealed message of Vatras to Ysgaroth;
+- Fixed discrepancy between the texts of the open and sealed message of Vatras to Isgaroth;
 - Fixed the lack of an option to end the dialogue with a tramp near the Circle of the Sun;
 - All keys are placed in a separate inventory category and are no longer mixed with other items;
 - Talbin's death in Khorinis results in failure of the active quest 'I have to get out of here!';
 - Talbin's death in Mine Valley cancels the active quest 'I have to get out of here!';
 - Quest 'I have to get out of here!' will be canceled if the PC refuses to help Talbin pass through the Passage;
-- When receiving beer from the GG, repeated bottles are not created in Ragnar's inventory;
+- When receiving beer from the PC, repeated bottles are not created in Ragnar's inventory;
 - Fixed and improved texture mapping of the dragon egg model;
 - Fixed a rare inability to use attachments with dialog boxes;
 - When praying to Innos, donation amounts are displayed on the screen;
-- Coragon will report the news about Valentino being beaten by him last night, regardless of the GG’s dialogue with Regis;
+- Coragon will report the news about Valentino being beaten by him last night, regardless of the GG’s dialogue with Regas;
 - Skip receives and reviews any card before commenting on the one that is written down or drawing a new one;
 - In the comments during training, Cavalorn takes into account the player’s choice in the initial dialogue and the appearance of the player;
-- The opportunity is not lost to ask Nadya about grass after asking about missing people and vice versa;
-- In the text of Dexter's note about the reward on GG's head, 30 gold coins are replaced with 30 gold nuggets;
+- The opportunity is not lost to ask Nadja about grass after asking about missing people and vice versa;
+- In the text of Dexter's note about the reward on PC's head, 30 gold coins are replaced with 30 gold nuggets;
 - Added the sound of increasing the characteristics of the PC during successful prayers to Innos;
 - Fixed the sound of paper and leather objects falling onto wooden and metal surfaces;
 - Rupert will only call a neutral PC a foreigner who has not yet become a student of one of the masters;
 - The translation and voice acting of two of Parlan's remarks about Gorax's quest for the novice have been corrected;
 - Fixed possible duplication of Rod's sword and removal of all weapons from the PC when equipping it (thanks to ElderGamer);
-- Improved and fixed animation of weapon inspection by Garad, Ferros and PC (thanks to ElderGamer);
-- The PC will receive more experience if he brings Garad the sword of an elite orc, the ax of the leader of the orcs, or the hammer of Hosh-Pak;
+- Improved and fixed animation of weapon inspection by Harad, Ferros and PC (thanks to ElderGamer);
+- The PC will receive more experience if he brings Harad the sword of an elite orc, the ax of the leader of the orcs, or the hammer of Hosh-Pak;
 - The Sword of Ferros will appear in the world at the beginning of the fourth chapter, and not at the beginning of his quest;
 - The quest 'Ferros' Sword' will appear in the diary only if the PC tells Ferros 'I will find your sword';
 - Added loading screens and main menu background for widescreen resolutions (optional installation);
@@ -257,7 +257,7 @@
 - The disappearance of the spirit of Rademes from the world, unfinished by the developers, has been implemented;
 - To tell Rademes about his father, you need to read the green stone tablet, and not just have it with you;
 - Fixed the translation and voice acting of two remarks by Rademes about levers and a sword;
-- If Garad has completed the order for the paladins, then Hakon will take this into account in his dialogues about him;
+- If Harad has completed the order for the paladins, then Hakon will take this into account in his dialogues about him;
 - Fixed possible death of Quarhodron or Rademes in front of the player instead of being correctly removed from the world;
 - Canthar moves into the city with his cart;
 - Fixed missing display names of alchemy tables in the monastery basement;
@@ -266,8 +266,8 @@
 - Lizards, boars and rats over Leicester Valley no longer fall from cliffs;
 - Joe is considered an ordinary port resident - no one stands up for him and he does not react aggressively to fights;
 - Fixed a bug due to which Salandril could not go to the monastery immediately after a fight and dialogue with the GG;
-- Bullko's responses to the fight with PC do not overlap the dialogue about Silvio's death;
-- Fixed illogical remarks from Hokarn when passing him various alcohol;
+- Bullco's responses to the fight with PC do not overlap the dialogue about Silvio's death;
+- Fixed illogical remarks from Hokurn when passing him various alcohol;
 - An entry about Jor will not be added to the diary if Alrik has not yet mentioned his name when talking about his sword;
 - After the death of an undead dragon, undead orcs stop spawning in its cave;
 - Wine and two farmers on the Lobart farm do not work in the fields after dark;
@@ -279,22 +279,22 @@
 - Sagitta will teach alchemy if the PC sold her solar aloe (the quest and experience are skipped);
 - You can give the scrolls of oblivion to Karras only after learning that it is Ignaz who makes them;
 - Fixed the ability to kill Torlof, Jack, Talbin and ship crew members after setting their immortality;
-- Rosie and Till cease to be considered residents of the farm after escaping from Sekob in chapter five;
-- Fixed missing diary entry about trading with Rosie when first meeting her in Chapter 5;
-- The entry for trading with Rosie will be added to the appropriate diary category, taking into account her refuge after the escape;
-- You can bring Rosie and Till not only to the eastern gate of Khorinis, but also to the southern one;
+- Rosi and Till cease to be considered residents of the farm after escaping from Sekob in chapter five;
+- Fixed missing diary entry about trading with Rosi when first meeting her in Chapter 5;
+- The entry for trading with Rosi will be added to the appropriate diary category, taking into account her refuge after the escape;
+- You can bring Rosi and Till not only to the eastern gate of Khorinis, but also to the southern one;
 - All unused lines with people's comments about paying fines to Lee, Garond and Parlan are used;
-- The deaths of Durian, Opolos and Babo cause their active quests to fail;
-- If Durian, Opolos or Babo are dead, then Pirokar cannot be asked to help them as a first step;
+- The deaths of Dyrian, Opolos and Babo cause their active quests to fail;
+- If Dyrian, Opolos or Babo are dead, then Pyrokar cannot be asked to help them as a first step;
 - Fixed freezing of dragons after using the Fire Rain and Ice Wave spells on them;
 - Fixed a possible crash caused by dragons incorrectly exiting the frozen state (thanks to killer-m);
 - Xardas will not rush to restore the Eye of Innos to the Circle of the Sun;
 - Fixed the impossibility of stealing a potion from Zuris from the fourth chapter;
-- Igarats and Agon are immediately transported to the required places for the test by Fire and will not leave the monastery on foot;
+- Igaraz and Agon are immediately transported to the required places for the test by Fire and will not leave the monastery on foot;
 - Fixed the description of the location of Bosper's shop in the diary;
 - Fixed the possibility of starting the quest 'Drink to the bottom' in the fourth chapter as obviously impossible;
-- Added the ability to inform Ruhar in Chapter 4 that Randolph will not be able to come to the tavern;
-- Ruhar and Randolph will leave the tavern at the beginning of the fourth chapter, and Orlan will announce the results of the competition;
+- Added the ability to inform Rukhar in Chapter 4 that Randolph will not be able to come to the tavern;
+- Rukhar and Randolph will leave the tavern at the beginning of the fourth chapter, and Orlan will announce the results of the competition;
 - Randolph will give the PC money for winning the competition even after the fourth chapter, if he does not become possessed;
 - Erol's quest will not appear in the diary as obviously impossible if the PC brought Vatras more than 25 tablets;
 - The quest 'Attack on the Merchant' will not be canceled in the fourth chapter, as it can be completed before the sixth chapter;
@@ -306,16 +306,16 @@
 - Girion will not send the PC to Hagen for further training if his proficiency with two-handed weapons is already 100%;
 - Dialogue with Dar 'It seems that some of the mercenaries have disappeared' is available immediately after they leave Onar's farm;
 - Added improved textures of the night sky and clouds (thanks to unknown111);
-- The texts for receiving a reward from Raul and learning from Lennar do not overlap;
+- The texts for receiving a reward from Raoul and learning from Lennar do not overlap;
 - The quest 'Hordes of Elite Orcs' will be closed immediately after Hagen receives all the rings of the orc leaders;
-- Jorgen really works in the monastery garden, as Pirokar and he himself say;
+- Jorgen really works in the monastery garden, as Pyrokar and he himself say;
 - Fixed the inability to take Lee on board if you gain access to the ship before the dialogue with him about sailing;
-- For the novice player, the dialogue with Brian about becoming Garad's student is not blocked;
-- If Garad is dead, then Brian cannot be told 'Tell me about Master Garad';
+- For the novice player, the dialogue with Brian about becoming Harad's student is not blocked;
+- If Harad is dead, then Brian cannot be told 'Tell me about Master Harad';
 - Talking to Brian about Jack's lighthouse does not require listening to unrelated dialogue;
 - Dialogues with Brian take into account his departure to Jack's lighthouse;
 - Fixed a bug due to which the dialogue option with Riordian about the map was visible only once;
-- If the PC did not show the amulet of the seeking light to Riordian in Khorinis, then he will be able to do this in Yarkendar;
+- If the PC did not show the amulet of the seeking light to Riordian in Khorinis, then he will be able to do this in Jarkendar;
 - Fixed the absence of all dialogues at night with Peck, who returned to the barracks;
 - You cannot ask Pedro on Irdorath about passage deep into the island if the PC has already opened the secret door;
 - If Diego has already told the PC about his attempt to report on dragons, then this will be taken into account in dialogues with Lothar;
@@ -329,9 +329,9 @@
 - The quest 'How to get to the city of Khorinis' will not start again if the player has already visited the city;
 - The quest 'How to get to the city of Khorinis' will be completed if the player has gained access to the city from the guards of the eastern gate;
 - The quest 'How to get to the city of Khorinis' will be completed if the PC entered the city by swimming;
-- The translation of Pirokar's remark about a hidden passage in the dialogue about completing his task has been corrected;
-- Corrected translation of GG's remark 'What's hiding behind that closed door over there?';
-- When talking about Silvio, Raul will mention the possibility of joining the mercenaries only for a neutral GG;
+- The translation of Pyrokar's remark about a hidden passage in the dialogue about completing his task has been corrected;
+- Corrected translation of PC's remark 'What's hiding behind that closed door over there?';
+- When talking about Silvio, Raoul will mention the possibility of joining the mercenaries only for a neutral GG;
 - Starting from the third chapter, Alrik will not talk about fighting the PC again if he has never fought with him;
 - The PC will not receive a ruby blade from Peck if he failed the quest 'Where is Peck?' in the third chapter;
 - It's not just a neutral who can say 'I want to look around the farm' to Raoul;
@@ -346,31 +346,31 @@
 - Fixed blocking of pickpocketing from Canthar in prison;
 - Canthar in prison will not demand 100 gold from the GG;
 - The translation of the mercenaries' line 'I heard you joined the militia' has been corrected. We need people like you';
-- The quest 'Bennett in Prison' will also begin after news of his arrest from some mercenaries;
+- The quest 'Bennet in Prison' will also begin after news of his arrest from some mercenaries;
 - Dialogue with the militias 'What can I do in the city?' takes into account the guild and citizenship of the player;
 - The death of Cipher leads to the failure of the active quests 'The Stolen Bale' and 'A Fistful of Herbs';
 - Added the ability to return a bale to Cipher who has gone to the Mining Valley;
-- Bennett's line 'I have nothing to teach you yet' has been restored;
-- Bennett's comment about the possibility of learning two new combat blades has been restored;
-- Fixed the inability to learn two combat blades from Bennett after restoring the Eye of Innos;
-- Bennett himself will contact the PC and talk about new swords to study;
+- Bennet's line 'I have nothing to teach you yet' has been restored;
+- Bennet's comment about the possibility of learning two new combat blades has been restored;
+- Fixed the inability to learn two combat blades from Bennet after restoring the Eye of Innos;
+- Bennet himself will contact the PC and talk about new swords to study;
 - If Salandril is dead, then Serpentes will not start the quest to find him for a mercenary or dragon hunter;
 - The 'Fake Stocks' quest for a mercenary or dragon hunter has been renamed to 'Unknown Sins';
 - If Canthar is dead, then in the third chapter Boltan will not report that he was released from prison;
 - If the PC created a rune from the Claw of Beliar, he will inform Xardas about this with the appropriate replica;
-- Bennett, Diego, Milten and Vatras sell some belts on Irdorath;
+- Bennet, Diego, Milten and Vatras sell some belts on Irdorath;
 - Edda will not cook fish soup for PC while at home at night;
 - Ask Edda 'What are you cooking?' possible only during the day, when she stands near the boiler;
 - The 'Typhoon' bladed staff deals slashing damage rather than bludgeoning damage;
 - The corpse of a bandit with the Araxos Merchant Guild quest ring will not disappear from the world;
 - Crimes against paladins outside of Mine Valley Castle are not counted against Garond;
 - Paladins outside Mine Valley Castle do not report news as if they were inside;
-- Hagen will give PC a rune not only for proof, but also for Bennett's release, if it happens earlier;
+- Hagen will give PC a rune not only for proof, but also for Bennet's release, if it happens earlier;
 - Added sound of meat frying on stoves;
 - Dead stone guardians do not lose awakening effects;
 - Fixed missing sounds of steps and running when using scrolls and runes;
 - All melee weapons have ranges that match the size of their models (thanks Slavemaster);
-- Ice golems will use the 'Ice Lance' on the frozen GG, and not stand still;
+- Ice golems will use the 'Ice Lance' on the frozen PC, and not stand still;
 - Fixed PC freezing when exiting the frozen state;
 - Fixed animation freezing when dying while frozen;
 - The sounds for the start and end of the frozen state have been restored and corrected;
@@ -394,8 +394,8 @@
 - Fixed missing entries in the diary about training with Babo if the PC became a magician without helping him with Sergio;
 - Fixed cases where Babo could comment on increasing a player's skill without actually increasing it;
 - Fixed blocking Lares' help with joining the guild if the PC asked Lee about the 'Ring of Water';
-- The situation was taken into account when the PC took help from Kord before Lares' advice on the quest 'A simple path to becoming a mercenary';
-- Fixed the red color of the subtitles of the GG's remarks when completing some dialogues;
+- The situation was taken into account when the PC took help from Cord before Lares' advice on the quest 'A simple path to becoming a mercenary';
+- Fixed the red color of the subtitles of the PC's remarks when completing some dialogues;
 - The paladins will greet the militia hero with the words 'For the king!' instead of 'For Innos!';
 - The translation of Onar's remark about weekly salary has been corrected;
 - Added the ability to purchase heavy militia armor in Khorinis (the price depends on the various merits of the GG);
@@ -405,10 +405,10 @@
 - You can ask Ragnar about the orc, having learned about him from Vino or Bartok and without starting Garwell's quest;
 - Fixed the volume of two lines of Wine in the monastery;
 - Fixed errors in calculating level increases and resetting characteristics through the character assistant;
-- An entry is added to the diary about the opportunity to study with Hokarn;
+- An entry is added to the diary about the opportunity to study with Hokurn;
 - Improved treasure digging effects (thanks ElderGamer);
-- Bennett will not say 'Until you are one of us' if the PC is no longer neutral - a new line has been added for this case;
-- If the PC is no longer able to become a mercenary, then Bennett will not check his blacksmithing skill for training;
+- Bennet will not say 'Until you are one of us' if the PC is no longer neutral - a new line has been added for this case;
+- If the PC is no longer able to become a mercenary, then Bennet will not check his blacksmithing skill for training;
 - Vatras correctly gathers and dismisses his flock when leaving the city and returning;
 - Three remarks were voiced by the PC when choosing a reward from Vatras for delivering his letter;
 - Fixed interference in several background lines of women;
@@ -420,28 +420,28 @@
 - Lares won't say 'Fighting is prohibited here!' after beating Mo in the port quarter;
 - Fixed pickpocketing being blocked for Gritta after completing Matteo's quest;
 - Fixed blocking of pickpocketing from Attila after the question 'Who are you?';
-- You cannot ask Torus how to get his armor if the PC already has it;
+- You cannot ask Thorus how to get his armor if the PC already has it;
 - The texts for receiving rewards from Cipher do not overlap each other;
-- Vatras will not give a letter for Ysgaroth if he is not already familiar with the PC or if Ysgaroth is dead;
+- Vatras will not give a letter for Isgaroth if he is not already familiar with the PC or if Isgaroth is dead;
 - Fixed bugs that prevented six bird sounds from playing;
 - Fixed missing some stone dragon sounds;
 - Edgor will say 'It was nice to meet you...' after any dialogue with GG;
 - To show Franco and Edgor the stone tablet, you must first learn its location from Edgor;
 - Fixed blocking of the quest 'Stone Tablet in the Swamps' in case of Franco's death;
-- Ask Xardas 'Why shouldn't the Circle of Fire know about you?' it is possible only before reporting it to Pirokar;
+- Ask Xardas 'Why shouldn't the Circle of Fire know about you?' it is possible only before reporting it to Pyrokar;
 - Malcolm's death before the 'Palisade Tree' quest does not block Henry from starting it;
 - Fixed a bug due to which Owen would appear on the beach instead of the plot with Malcolm;
 - Owen will only return to the beach after Raven dies and reports it to Greg;
-- The physique of Pardos in Khorinis corresponds to his physique in Yarkendar;
+- The physique of Pardos in Khorinis corresponds to his physique in Jarkendar;
 - Dialogue with Hagen 'What are your people doing in the Valley of the Mines?' closes after Hagen's story;
-- Patrick, Monty, Tonak, Telbor and Pardos will not appear in Khorinis if they died in Yarkendar;
+- Patrick, Monty, Tonak, Telbor and Pardos will not appear in Khorinis if they died in Jarkendar;
 - Now you don’t need to leave the dialogue with Cavalorn to give him a wallet or a piece of ore;
 - Fixed discrepancies between dialogue descriptions and actually spoken lines (thanks to Black_Phantom);
-- Bronco will not go into the field in the third chapter if the PC has not made him work before;
-- Bronco does not reset his daily routine every time PC asks “How are you?”;
-- Bronco will not demand payment from the PC for passage if he was beaten before the initial dialogue;
-- Fixed the lack of reaction of the Bronco to the refusal of the novice player to pay the passage fee;
-- Till, Regi and Babera cannot be asked about Bronco if he is dead;
+- Bronko will not go into the field in the third chapter if the PC has not made him work before;
+- Bronko does not reset his daily routine every time PC asks “How are you?”;
+- Bronko will not demand payment from the PC for passage if he was beaten before the initial dialogue;
+- Fixed the lack of reaction of the Bronko to the refusal of the novice player to pay the passage fee;
+- Till, Rega and Babera cannot be asked about Bronko if he is dead;
 - The missing line from PC has been added to the dialogue with the pirate from Henry’s group about clearing the tower;
 - If the PC did not vouch for Jan Garonda, then the story about the previous blacksmith will not be repeated in the repeated dialogue;
 - Andre can only hand over living criminals;
@@ -465,20 +465,20 @@
 - PC pays Canthar the correct amount after a fight with him;
 - Onar announces the correct amount of weekly salary instead of daily;
 - Fixed inability to give Francis the payment book after Greg returns;
-- Lance's ring in the GG's inventory is now located next to the other aquamarine rings;
+- Lance's ring in the PC's inventory is now located next to the other aquamarine rings;
 - Fixed blocking of entries for the quest 'Farmer in Need' after a dialogue with Engardo;
 - The quest 'Farmer in Need' will also begin after Sarah talks about Akil's problem with the mercenaries;
 - Sarah will not mention the mercenaries at Aquila Farm if they left in Chapter 4 or are dead;
 - Akil, Katie and Randolph will not stop asking for help if only one Alvarez or Engardo is killed;
 - Francis, Brandon and Matt correctly identify Greg's presence in the pirate camp;
-- When the Water Mages begin to trust the GG, they will no longer perceive his weapons and magic as a threat;
+- When the Water Mages begin to trust the PC, they will no longer perceive his weapons and magic as a threat;
 - Fixed the ability to skip the initial dialogue with Greg after he returns to the pirate camp;
 - People say the right lines after waking up from a magical sleep;
 - If Pardos drinks meat stew, then the inscription about the increase in strength is not displayed for the GG;
 - By giving Pardos the meat stew, the PC will receive more experience than for a potion of pure health;
 - Fixed situations where Rick and Rumbold could return to Bengar's farm;
-- Rick and Rumbold will leave Bengar's farm if the PC asked Kord for help with the quest 'Drive away the militia';
-- Dialogues with Bengar, Rick and Rumbold take into account the completion of the quest 'Drive away the militia' with the help of Kord;
+- Rick and Rumbold will leave Bengar's farm if the PC asked Cord for help with the quest 'Drive away the militia';
+- Dialogues with Bengar, Rick and Rumbold take into account the completion of the quest 'Drive away the militia' with the help of Cord;
 - Added the ability to drive Rick and Rumbold away from Bengar's farm by using the 'Fear' spell;
 - Added the ability to drive Alvarez and Engardo away from the Aquila farm by using the 'Fear' spell;
 - The conditions under which Xardas can be informed about the Water Mage portal have been expanded;
@@ -487,9 +487,9 @@
 - Dialogues with Alligator Jack about pirates, bandits and armor are available even after Greg returns;
 - The quest 'Grog for the Cook' will begin only if the PC does not have grog in his inventory or if he does not give it to the pirate;
 - After completing Torlof's task, an entry for the quest 'Become a Mercenary' will be added only for a neutral;
-- The PC learns about Kord's membership in the 'Ring of Water' not only from Lares and Lee, but also after the ceremony in the tavern;
-- If the PC has joined the 'Ring of Water', then Kord cannot be blackmailed by divulging his secret;
-- Kord can't be told 'Teach me how to fight' if he can already teach the GG;
+- The PC learns about Cord's membership in the 'Ring of Water' not only from Lares and Lee, but also after the ceremony in the tavern;
+- If the PC has joined the 'Ring of Water', then Cord cannot be blackmailed by divulging his secret;
+- Cord can't be told 'Teach me how to fight' if he can already teach the GG;
 - Fixed missing charging sounds for the 'Ball Lightning' spell;
 - Fixed missing sounds of night insects in some places;
 - Unused sounds of mole rats, sheep, trolls, orcs, monitor lizards and zombies are used;
@@ -509,8 +509,8 @@
 - People correctly stop the state of fear if the PC is dead, beaten or euthanized;
 - As fear begins and ends, people use the correct facial expressions;
 - If Bloodwin dies in the temple without getting into the cave with the crawlers, then Garaz will not comment on his death;
-- Torus goes into a state of waiting for the PC immediately after the death of Bloodwin, without waiting for the conversation between the PC and Garaz;
-- PC will be able to ask Torus to free the slaves only after meeting with Patrick;
+- Thorus goes into a state of waiting for the PC immediately after the death of Bloodwin, without waiting for the conversation between the PC and Garaz;
+- PC will be able to ask Thorus to free the slaves only after meeting with Patrick;
 - Fixed the ability to get past the port warehouse guard by taking out a weapon or magic;
 - The guard immediately attacks the PC if he notices him on the second floor of the port warehouse;
 - If the PC reported to Garond about all three prospectors, then he cannot be asked 'Where can I find these mines?';
@@ -520,14 +520,14 @@
 - The inscription with the amount of damage received when using the Claw of Beliar or praying without a sacrifice has been removed;
 - If Hosh-Pak is dead, then the PC will immediately tell Orik about this instead of first agreeing to kill him;
 - The opportunity is not lost to ask Lee 'What do you know about the Ring of Water?' after joining any guild;
-- If you ask Kord for training as a favor, the dialogue 'I want to become a mercenary!' is not blocked;
-- If the PC chooses services from Kord and says 'I don't really need anything', then these services are canceled;
+- If you ask Cord for training as a favor, the dialogue 'I want to become a mercenary!' is not blocked;
+- If the PC chooses services from Cord and says 'I don't really need anything', then these services are canceled;
 - The judge is not trying to occupy a non-existent chair on the ground floor of his house;
 - Fixed the inability to start and finish the quest 'Palaces of Architects' after the quest 'Relics' or the death of Raven;
 - Dialogue 'How exactly will the relics help me in the temple?' available even if Saturas did not receive all color plates;
 - Saturas examines the colored tablets that the PC brings him;
 - You can take the current number of colored tablets from Saturas: for dialogue you do not need to find them all;
-- Fixed the possibility of accidentally missing dialogue with Saturas in Yarkendar about missing people;
+- Fixed the possibility of accidentally missing dialogue with Saturas in Jarkendar about missing people;
 - Added the ability to actually give your weapon to the robber at the bridge, as he demands;
 - Fixed the inability to take Wolf into the team after the death of Bengar;
 - You cannot ask Agon 'What are you growing here?' if he is sleeping or in the church;
@@ -537,9 +537,9 @@
 - You can also tell Farim about William’s death after Patrick’s story;
 - Girion's responses now take into account the death of ship guards;
 - If Lee went to the ship in the harbor, then you cannot ask him “How are things on the farm?”;
-- Fixed the absence of GG's response when Hilda refuses to feed;
+- Fixed the absence of PC's response when Hilda refuses to feed;
 - Esteban's bodyguards will not attack the PC during the dialogue;
-- Torben will not praise PC for paying off Matteo's debt if Gritta gave the gold after threats or was beaten;
+- Thorben will not praise PC for paying off Matteo's debt if Gritta gave the gold after threats or was beaten;
 - The diary correctly displays three-digit (or more) values ​​of the current gaming day;
 - The sleeping places on Onar's farm are distributed so that there is enough space for all mercenaries and the main character;
 - Fixed weapons of dead bandits in the halls of Adanos and Lance being unavailable for removal;
@@ -564,13 +564,13 @@
 - Andre and Hagen do not refuse to tell the GG-mage about the mission of the paladins;
 - Fixed blocking of the 'North Beach' quest when Alligator Jack dies or fails the 'Rat Hunt' quest;
 - Fixed the inability to learn from Morgan when Alligator Jack dies or fails the quest 'Rat Hunt';
-- Fixed the inability to ask Nadya about Lucia if you pay Bromor before information about missing people;
+- Fixed the inability to ask Nadja about Lucia if you pay Bromor before information about missing people;
 - Fixed the Seeker appearing on a non-existent point in the third chapter;
 - Fixed four skeletons and two shadow warriors appearing at non-existent points on Irdorath;
 - The sound of the death of dragons has been restored - the called file did not exist in the game resources;
 - The quest 'Wanted Posts and Bandits' will not start as impossible after reporting to Vatras about the Raven;
-- In the dialogue with Dexter about the announcements, information from the bandit Brago is taken into account, and not from Kord or Skip;
-- The dialogue with Hagen about the broken Eye of Innos takes into account its presence in the GG's inventory;
+- In the dialogue with Dexter about the announcements, information from the bandit Brago is taken into account, and not from Cord or Skip;
+- The dialogue with Hagen about the broken Eye of Innos takes into account its presence in the PC's inventory;
 - Fester will only tell the GG-neutral about help with joining the mercenaries;
 - The unfinished quest 'Field Predators' will be failed in the third chapter, and Fester will return to the farm;
 - Fester's death results in the failure of the active quest 'Field Predators';
@@ -581,23 +581,23 @@
 - Dialogues with Lothar about the message for Hagen and access to the upper quarter are also available for the novice;
 - PC will tell Lothar about the peace offer from Lee only if he has this note in his inventory or gave it to Hagen;
 - Milten in Khorinis teaches the same spells as in the Mine Valley;
-- Fixed sorting of dialogue options with Gestat;
-- Fixed missing entries in the diary about training with Gestat;
+- Fixed sorting of dialogue options with Gestath;
+- Fixed missing entries in the diary about training with Gestath;
 - The damage radii of magic staves correspond to the size of their models;
 - Matteo will deny acquaintance with the PC in front of the masters if the collection of his debt ended in the death of Gritta;
-- Matteo's answers to some of the GG's questions will change if collecting his debt ended with Gritta's death;
+- Matteo's answers to some of the PC's questions will change if collecting his debt ended with Gritta's death;
 - Dialogues with Matteo about access to the upper quarter are not blocked for the novice player;
 - For the PC paladin and mage, the dialogue with Gerbrandt 'What are you doing here?' is not blocked;
 - Fixed unvoiced lines of Constantino and Gritta while maintaining context and subtitles;
 - Corrected the translation of Cipher's line in the Mining Valley 'Just give me your word!';
 - In the dialogue with Kardif about Attila, the damaged and incorrectly translated line is not played;
-- Removed extraneous sound in GG's line 'Then I'll come on board now';
+- Removed extraneous sound in PC's line 'Then I'll come on board now';
 - In the dialogue with Jesper about the Bosper bow, its presence is checked in the chest, and not in the GG’s inventory;
 - Once you have learned the skill of removing teeth from boars, you can remove their tusks;
 - Three unused lines from the PC about the ingredients of various potions are involved;
 - Fixed errors in dialogues with guards of the upper quarter during active PC penalties;
 - If the PC does not have 10 gold, then he will tell Greg about it instead of 'Here's 10 gold for you';
-- If Rengaru runs away to the port, he stops complaining to the militia about the GG, like all the residents of the area;
+- If Rengaru runs away to the port, he stops complaining to the militia about the PC, like all the residents of the area;
 - If Vatras leaves the ship's crew back to the square, it does not conflict with Mixir's daily routine;
 - Fixed the 'Ring of Water' entry ceremony being blocked if it was not completed before the third chapter;
 - Fixed errors related to Lares' movements and the beginning of the third chapter;
@@ -607,21 +607,21 @@
 - Bandits' regular swords have been replaced with bandit swords;
 - Some bandits are now armed with short swords, as Fernando sells them to the bandits;
 - If you steal an amulet from Franco, its characteristics will be lowered in accordance with the parameters of the amulet;
-- When Kronos moves from Khorinis to Yarkendar, his trade inventory is transferred with him;
-- When Bennett moves from Khorinis to Irdorath, his steel blanks and pieces of ore are carried along with him;
-- Malet equips his staff when he receives it;
+- When Cronos moves from Khorinis to Jarkendar, his trade inventory is transferred with him;
+- When Bennet moves from Khorinis to Irdorath, his steel blanks and pieces of ore are carried along with him;
+- Malak equips his staff when he receives it;
 - Finn's story about Huno only adds a diary entry once;
-- After completing the quest 'Rat Hunt', Alligator Jack ceases to be GG's ally;
+- After completing the quest 'Rat Hunt', Alligator Jack ceases to be PC's ally;
 - Skip won't say 'Looks like we killed all the razortooths' while in camp;
-- Snuff will not get stuck on the bar after using the cauldron if you speak to him from too far away;
+- Snaf will not get stuck on the bar after using the cauldron if you speak to him from too far away;
 - Corrected translation of Rod's line 'You're just a scoundrel after that!';
 - Added sounds of walking in the snow (thanks to ElderGamer);
 - If PC becomes a magician, then Zuris will stop kicking him out of his house;
 - The monastery room with the altar of Innos is considered publicly accessible: the PC will no longer be kicked out of it;
 - One of the novices' cells in the monastery, which was considered public, has been corrected;
-- Fixed blocking of dialogue with Ibrahim about missing people after visiting Yarkendar;
+- Fixed blocking of dialogue with Ibrahim about missing people after visiting Jarkendar;
 - If PC beat Ibrahim and took away his old card, then he will not say that PC bought it;
-- Fixed a possible crash when moving from Khorinis to Yarkendar or at the beginning of the fifth chapter;
+- Fixed a possible crash when moving from Khorinis to Jarkendar or at the beginning of the fifth chapter;
 - Prisoners' weapons and joints are not kept in their inventories;
 - You can't tell Farim 'I think he'll show up again' if the PC has already found William's body;
 - The 'Missing People' quest will not start again if the slaves have returned to Khorinis;
@@ -647,7 +647,7 @@
 - The PC will not tell the mercenary at the entrance that he is going to Onar's house if he is already inside or leaving there;
 - Fixed missing reason for Halvor refusing to trade between midnight and 5 am;
 - Dialogue with Andre "I think Cornelius is lying" is available not only for the GG-militia;
-- Cornelius refuses to talk to GG, finding himself in prison;
+- Cornelius refuses to talk to PC, finding himself in prison;
 - You can't say to Jack the Alligator "I need bandit armor" if the PC already has it;
 - The deal with Fernando will be canceled only if the PC refuses the bribe or threatens him with militia;
 - After accepting the PC into the 'Ring of Water', Orlan will begin to sell the staff of the Water Mage;
@@ -657,16 +657,16 @@
 ## v21 01.05.2019
 - After Juan's death or beating, Skip's grog does not disappear;
 - Fixed inconsistencies in alcohol prices when purchased through dialogue with Samuel;
-- Balthazar will not appear at Sekob's farm in the third chapter if he previously went to Bengar's pastures;
+- Balthasar will not appear at Sekob's farm in the third chapter if he previously went to Bengar's pastures;
 - Fixed possible loss of experience in the dialogue with Saturas 'About Raven...';
 - Saturas correctly evaluates and comments on the PC circle of magic during training;
-- Fixed an issue where Saturas in Yarkendar would never speak one of his lines.
+- Fixed an issue where Saturas in Jarkendar would never speak one of his lines.
 - Fixed the location of the pickpocket option in the dialogue with Diego in Khorinis;
 - Cipher's quest 'Bale of Grass' has been renamed to 'Stolen Bale' to differentiate it from Andre's quest 'Bale of Grass';
 - Milten in Mine Valley teaches not only the second circle of magic, but also the first;
 - Jora now has light and hunting crossbows for sale, which no one had sold before;
 - The oak bow in the dragon snapper cave in Mine Valley is available from the first chapter;
-- Jarvis does not say that he will vote for GG, who beat up Silvio's people, but is no longer neutral;
+- Jarvis does not say that he will vote for PC, who beat up Silvio's people, but is no longer neutral;
 - Entries about the quest 'Jarvis's Challenge' do not disappear from the diary at the beginning of the second chapter;
 - The quest 'Jarvis's Challenge' will fail when Silvio and his men leave Onar's farm;
 - Fernando will give the promised reward for information if the PC has collected all the evidence against him, but agreed for bribery;
@@ -677,7 +677,7 @@
 - Some dialogues with Greg are not blocked if you give orders to Raven Vatras;
 - Ten missing dialogue animations have been restored;
 - Fixed several situations where people used items before receiving them;
-- Added text for transferring and receiving the Eye of Innos in the first dialogue with Bennett about its repair;
+- Added text for transferring and receiving the Eye of Innos in the first dialogue with Bennet about its repair;
 - The opportunity to tell Vatras about missing people is not lost if the PC already knows where they are;
 - You can't ask Vatras 'Where should I look for them?' about missing people, if the PC already knows where they are;
 - You can give Vatras' letter to Saturas without waiting for the completion of the 'Portal' quest;
@@ -696,15 +696,15 @@
 - The effect in the monastery church shines constantly, and does not go out after 5 minutes;
 - Martin and Mixir refuse to talk to the PC wearing the 'Ring of Water' armor in Khorinis;
 - The completed quest 'Forbidden Pasture' will not disappear from the diary when joining a militia or a monastery;
-- The militiaman and the magician do not lose the opportunity to tell Balthazar about the successful conversation with Bengar;
+- The militiaman and the magician do not lose the opportunity to tell Balthasar about the successful conversation with Bengar;
 - If the PC did not complete Torlof's test, then he will not send him to Lee to be accepted as a mercenary;
 - If the PC keeps Babo's documents, they can be given back later, and the quest will not be blocked;
 - Fixed blocking of the 'Documents' quest after refusing Babo's increased reward;
 - PC gives Babo his documents if he agrees to an increased reward;
 - Unlocked never-played dialogue with Babo for ten lines;
-- When the PC pays for the key, Igarats for some time will not consider opening his chest to be theft;
+- When the PC pays for the key, Igaraz for some time will not consider opening his chest to be theft;
 - The missing line from PC has been added to the dialogue with Francis about his bribery;
-- Gestat and Gorn do not become aggressive when they see the PC in bandit armor;
+- Gestath and Gorn do not become aggressive when they see the PC in bandit armor;
 - An extra sword will no longer appear in Bloodwin's inventory;
 - Fixed inconsistencies in subtitles and voice acting for Maria, Torlof and Hagen;
 - Added the ability to return the sword to Rod, who went to the Mining Valley;
@@ -720,11 +720,11 @@
 - Henry is armed with a crossbow, as he teaches crossbow skills;
 - The dragon egg he used to make the potion does not remain in Neoras's inventory;
 - When Francis' chest is opened, the screen lists the items received;
-- Constantino refuses to teach recipes to GG, who is accused of crimes in the city;
-- Constantino refuses to trade with GG, accused of crimes in the city;
+- Constantino refuses to teach recipes to PC, who is accused of crimes in the city;
+- Constantino refuses to trade with PC, accused of crimes in the city;
 - You cannot say to Constantino 'I want to become an apprentice' if the PC is already an apprentice;
 - The conditions for training a student of another master with Constantino are voiced in the dialogue itself;
-- Fire tongues do not disappear from the inventories of Gorax and Kronos;
+- Fire tongues do not disappear from the inventories of Gorax and Cronos;
 - Fixed all inconsistencies between pickpocket difficulty descriptions and dexterity requirements (thanks to N1kX);
 - The unfinished quest 'The Power of the Guardians of the Dead' will end after Raven's death and will not freeze until the fourth chapter;
 - The quest 'Palaces of Architects' will not disappear from the diary after the death of Raven, as it closes at Riordian;
@@ -735,7 +735,7 @@
 - The dialogue with Jesper about the closed room is available not from the third chapter, but after being accepted into the thieves guild;
 - Fixed being able to tell Jesper about opening Fingers' chest without asking him about the locked room;
 - Jesper will not say 'Here is the key to this room' unless he already has the key;
-- The diary entry about trading with Kronos is added to the new category 'Trade with Water Mages';
+- The diary entry about trading with Cronos is added to the new category 'Trade with Water Mages';
 - The prices of elixirs of strength and dexterity exceed the total price of their ingredients: preparation is no longer unprofitable;
 - Errors in the innkeeper's beer distribution algorithm have been corrected: now he gives only one mug per day;
 - The innkeeper will not tell the paladin 'The paladins will deal with everything themselves';
@@ -745,19 +745,19 @@
 - Added the ability to say to the Mixer in Khorinis 'I spoke to Quarhodron' and not lose experience;
 - The dialogue with Ramirez about the sextant is available not from the second chapter, but after being accepted into the thieves guild;
 - Ramirez correctly assesses the chests in the sewers that PC robbed;
-- Ramirez will attack the alien GG, who is stealing from chests in the sewers;
+- Ramirez will attack the alien PC, who is stealing from chests in the sewers;
 - Girion will not appear at the ship until the fifth chapter, when he tries to stop the GG;
 - Fixed the disappearance of dynamic text describing the broken Eye of Innos;
 - Mortis's strength training limit has been increased from 60 to 150 units;
-- Upon receiving the Eye of Innos, Bennett will go to the forge, where he will work all night;
-- Fixed a situation where Bennett could complete repairs to the Eye of Innos in a few seconds;
+- Upon receiving the Eye of Innos, Bennet will go to the forge, where he will work all night;
+- Fixed a situation where Bennet could complete repairs to the Eye of Innos in a few seconds;
 - The quest to find Malcolm will not begin if he dies before the dialogue with Owen;
 - Entries about training with Cassia, Jesper and Ramirez will be added to the diary only with acceptance into the thieves guild;
 - If you meet Jesper for the first time after killing Ramirez or Cassia, he immediately proceeds to dialogue with an attack;
 - Wolf won't say he needs a job if he's guarding Bengar's farm or going on a ship;
 - You cannot ask Lee about a captain for a ship if the PC has already chosen one;
-- Added the ability to ask other blacksmiths (Karl, Dobar, Huno and Mortis) about repairing jewelry;
-- If Bennett has already agreed to repair the Eye of Innos, then the blacksmiths cannot be asked about its repair;
+- Added the ability to ask other blacksmiths (Carl, Dobar, Huno and Mortis) about repairing jewelry;
+- If Bennet has already agreed to repair the Eye of Innos, then the blacksmiths cannot be asked about its repair;
 - Fixed endless and uninterrupted dialogue with Huno if the PC accused him of organizing the attack;
 - The escaped Cornelius will not attack the fugitives in the cave attacking the GG;
 - Removed the fourth chapter requirement for training with Lee;
@@ -770,17 +770,17 @@
 - Fixed the appearance of two dragon eggs on one point;
 - Fixed an issue where Bullco would never speak one of his lines.
 - Bullco will attack PC every day after telling him to leave the farm;
-- If PC knows about Bullko's problems with Lee or Onar, he will tell him about it, preventing the attack;
+- If PC knows about Bullco's problems with Lee or Onar, he will tell him about it, preventing the attack;
 - Fixed possible blocking of dialogue with Ian about dragon blood in the fifth chapter;
 - Fixed an issue where Coragon would never speak two of his lines;
-- The quest 'Rosie's Escape' will correctly appear in the diary if the PC asks Babera about Rosie;
-- Fixed the inability to threaten Bronco with mercenaries if the PC is not neutral;
+- The quest 'Rosi's Escape' will correctly appear in the diary if the PC asks Babera about Rosi;
+- Fixed the inability to threaten Bronko with mercenaries if the PC is not neutral;
 - Fixed mixed-up remarks by Moe about the murder of Lothar in the dialogue 'What rumors have been circulating lately?';
 - The quest 'Respect' will appear in the diary when receiving votes from mercenaries before talking with Torlof;
 - The 'Respect' quest will not start again if you continue to collect votes after Torlof's approval;
 - The 'Respect' quest will be marked as completed immediately after Torlof's approval;
 - Upon receiving Torlof's voice, a corresponding entry will appear in the diary;
-- GG's unused line about Alrik's sword was used in the dialogue with Jora;
+- PC's unused line about Alrik's sword was used in the dialogue with Jora;
 - You can ask Jora about the thieves guild by taking the sewer key from Attila;
 - You don't need to have started the quest to eliminate the thieves to show Lares the key to the sewer;
 - The PC will not ask Kardif 'Where can I find the captain?' if he has already chosen one;
@@ -789,8 +789,8 @@
 - You can give all the rings at once to Girion on Irdorath, without starting a dialogue for each one separately;
 - You can give all the almanacs to Vatras on Irdorath at once, without starting a dialogue for each one separately;
 - Fixed being able to get 100 gold from Gritta twice;
-- Thanks to Lares, Lemar will forgive GG’s debt on the first day, without waiting for the delay;
-- Meldor and Moe will attack PC for overdue debt, even if Lemar was beaten;
+- Thanks to Lares, Lehmar will forgive GG’s debt on the first day, without waiting for the delay;
+- Meldor and Moe will attack PC for overdue debt, even if Lehmar was beaten;
 - Orlan will only sell the tavern teleport rune to members of the Ring of Water;
 - The inaccessible dialogue with Lothar has been transferred to Governor Larius with the same conditions;
 - Useless notes sold to them are periodically removed from merchants' inventories;
@@ -805,7 +805,7 @@
 - Animals are not distracted by eating corpses if they are already in a state of attack;
 - In the inventories of Pablo, Senyan and other bandits there is a wanted notice for PC that they are considering;
 - For the question to Merdarion 'What is the fastest way to get to the city?' there is no need to give the ornament to Saturas;
-- After visiting Yarkendar, the opportunity is not lost to inform Greg about the meeting with Skip near Khorinis;
+- After visiting Jarkendar, the opportunity is not lost to inform Greg about the meeting with Skip near Khorinis;
 - If the PC did not tell Greg about Skip in the dialogue after Dexter's death, then this can be done later;
 - Fixed pickpocketing being blocked for Nagur if you show him the sign of thieves;
 - Fixed blocking of all dialogues with Saturas if you bring him an ornament in the third chapter;
@@ -813,23 +813,23 @@
 - PC will not tell Saturas 'Vatras told me about the Ring' if he did not talk to him about it;
 - Fixed errors due to which people could not distinguish between the aquamarine rings of PC and Lares;
 - Completing the quests 'Portal', 'Riordian' and 'The Man with the Eyepatch' is not tied to the third chapter;
-- The quest 'Riordian' will be failed when the Water Mages move to Yarkendar;
+- The quest 'Riordian' will be failed when the Water Mages move to Jarkendar;
 - Saturas will not ask to bring Riordian to him if he is in the same room with him;
 - Riordian will not interrupt the process of restoring the ornament if you tell him that Saturas wants to see him;
-- Bullco ignores GG's clothes and does not refuse to talk if he threatens to drive him away from the farm;
+- Bullco ignores PC's clothes and does not refuse to talk if he threatens to drive him away from the farm;
 - Fixed events that add entries to the diary for the 'Missing People' quest, but do not start it;
 - Used unused page textures for some opened books;
 - Not only a neutral can say to Xardas 'I was in the city...', and his answer depends on the guild of the PC;
 - Lester will correctly go to Xardas in the second chapter or if the PC was already in the city;
-- Vatras will not mention the broken frame of the Eye of Innos if Bennett has already repaired it;
-- You cannot ask Vatras about the blacksmith if the PC has already given the Eye of Innos to Bennett;
+- Vatras will not mention the broken frame of the Eye of Innos if Bennet has already repaired it;
+- You cannot ask Vatras about the blacksmith if the PC has already given the Eye of Innos to Bennet;
 - Fixed two dialogue options about learning from Marduk being available at the same time for the PC paladin;
 - The probability of a bandit from Brago's gang appearing next to Cavalorn in his parking lot has been fixed;
-- Addon drinks have been added to the list of alcohol for Hokarn: rum, grog, 'Hammer of Lu' and double 'Hammer of Lu';
-- Hokarn will not talk about the crimson glow over the mountain if the fire dragon is already dead;
+- Addon drinks have been added to the list of alcohol for Hokurn: rum, grog, 'Hammer of Lou' and double 'Hammer of Lou';
+- Hokurn will not talk about the crimson glow over the mountain if the fire dragon is already dead;
 - Orik will not praise the PC for killing all the dragons if he has not already reported this to Garond;
 - The quest 'Change of Consciousness' will fail if Fortuno drinks the incorrectly prepared elixir and dies;
-- In response to GG's threats, Esteban attacks him not alone, but together with his bodyguards;
+- In response to PC's threats, Esteban attacks him not alone, but together with his bodyguards;
 - When Wulfgar talks about training with Ruga and Mortis, corresponding entries appear in the diary;
 - Fixed illogical remarks by Lares about escorting the PC to the eastern forest in the third chapter;
 - The dragon hunter does not lose the opportunity to inform Lee about the release of the Gorn;
@@ -838,7 +838,7 @@
 - Fixed an issue where Samuel would never speak one of his lines.
 - Ulthar will not talk about the desecration of the altars in the fourth chapter at the same time as the news about their cleansing;
 - Fixed discrepancy between the color of Greg's scalp and body;
-- Pirokar now reads the letter from Garond confirming his authority;
+- Pyrokar now reads the letter from Garond confirming his authority;
 - Will-o'-the-wisps no longer bleed green blood;
 - Will-o'-the-wisps stand up for other will-o-wisps and attack the enemy together;
 - Carrion animals do not try to eat the 'corpses' of will-o'-the-wisps;
@@ -850,9 +850,9 @@
 - Vatras will not mention the need to bring the repaired Eye of Innos during its restoration;
 - Fixed fire golem hit animation causing instant damage (thanks to ElderGamer);
 - Fixed the animation of digging up treasures with a burning torch equipped (thanks to ElderGamer);
-- The quest 'Bennett in Prison' will also begin after news of his arrest from Tekla;
-- Fixed repeated entries in the diary for the quest 'Bennett in prison' in dialogues with Hodges and Lares;
-- If Hodges has already talked about Bennett, then there will be no entry in the diary about the need for this conversation;
+- The quest 'Bennet in Prison' will also begin after news of his arrest from Thekla;
+- Fixed repeated entries in the diary for the quest 'Bennet in prison' in dialogues with Hodges and Lares;
+- If Hodges has already talked about Bennet, then there will be no entry in the diary about the need for this conversation;
 - Fixed sending Cornelius to a non-existent point instead of a prison;
 - The knights will not go to Marcos on foot, but will be there immediately after Garond’s words about sending reinforcements;
 - A beaten or dead Salandril has a key: it is now accessible not only through theft;
@@ -866,8 +866,8 @@
 - The quest 'Proof' will be marked as completed when delivering Garond's letter to Hagen;
 - The 'Proof' quest will not disappear from the diary at the beginning of the third chapter;
 - The situation was taken into account when the PC killed Silvio’s ice golems before the fourth chapter;
-- Fixed missing diary entries about training with Neoras and Torben;
-- If Elvrich returned from captivity, then Torben will agree to teach PC how to pick locks;
+- Fixed missing diary entries about training with Neoras and Thorben;
+- If Elvrich returned from captivity, then Thorben will agree to teach PC how to pick locks;
 - You can inform Garvell about the orcs after returning from the Mine Valley, without talking to Ragnar;
 - Akil will not talk about the missing sheep until his problem with Alvarez and Engardo is resolved;
 - The situation was taken into account when the PC came for Akila’s sheep in bandit armor;
@@ -877,38 +877,38 @@
 - Fixed an issue where dialogue with Biff on Irdorath was never available;
 - There are eight unused dialogue lines with Diego, Xardas, Elvrich and Gorn;
 - The PC will gain more experience if he gives information to Garwell as early as possible, and not vice versa;
-- The opportunity to tell Saturas about visiting the bandit camp does not only appear after talking with Torus;
+- The opportunity to tell Saturas about visiting the bandit camp does not only appear after talking with Thorus;
 - Daron reacts to the lack of a robe on the PC mage, like all the other mages from the monastery;
 - Ulf reacts to the lack of robe on the PC novice, like all the other novices from the monastery;
 - Talamon becomes mortal after he allows the PC into the basement of the monastery;
-- After the GG's tip, the sewer thieves will die in two days, and not with the first load of the save;
+- After the PC's tip, the sewer thieves will die in two days, and not with the first load of the save;
 - If the PC himself killed the thieves, then Andre will still ask about the location of the destroyed guild;
 - After destroying the Thieves' Guild, their quests will be failed rather than cancelled;
 - Fixed the inability to start the quest to find the thieves guild if the player did not start it while being neutral;
-- If the PC asks Hannah about the thieves guild, she will notice their death in a few days;
-- After Hannah's attack, you can find the key to the hotel basement on her;
+- If the PC asks Hanna about the thieves guild, she will notice their death in a few days;
+- After Hanna's attack, you can find the key to the hotel basement on her;
 - Improved and fixed the news algorithm in the dialogue with Meldor;
 - The clan in Mine Valley won't say 'This thing is a bit too much for us' if the swamp dragon is dead;
 - Biff will not demand money from the PC after joining his team on Irdorath and leaving for the Pass;
-- Ysgaroth does not complain to Parlan about GG's crimes until he becomes a novice;
-- The dialogue with Milten about the crew on Irdorath correctly adds journal entries about Diego, Horn and Lester;
+- Isgaroth does not complain to Parlan about PC's crimes until he becomes a novice;
+- The dialogue with Milten about the crew on Irdorath correctly adds journal entries about Diego, Gorn and Lester;
 - The quest 'It is impossible to sail without a crew' will not be completed after the ship is captured;
 - Bosper does not call the city guard stupid in a conversation with the PC militia;
 - Fixed the ability to buy weed from Borka after failing his cover;
 - Andre calls the money for the PC paladin for completed quests not a salary, but a reward;
 - If the militia PC missed the quests about grass and field predators, he will no longer receive them after becoming a paladin;
 - The quest 'Trading Grass' will begin after a bale of grass, without conflicting with the quest 'Trouble at Lobart's Farm';
-- If Nadya is dead, the quest 'Weed Trading' will not start, and Andre will comment on her death;
-- Fixed blocking of the quest 'Trading grass' if Nadya dies before telling about Bork;
-- When completing the quest 'Trade in Grass', Meldor, Borka, Nadya, Sonya and Vanya take into account the paladin armor on the GG;
-- If the quest 'Trade in Grass' is started, then Meldor, Borka, Nadya, Sonya and Vanya will remember the armor on the GG;
+- If Nadja is dead, the quest 'Weed Trading' will not start, and Andre will comment on her death;
+- Fixed blocking of the quest 'Trading grass' if Nadja dies before telling about Bork;
+- When completing the quest 'Trade in Grass', Meldor, Borka, Nadja, Sonya and Vanya take into account the paladin armor on the GG;
+- If the quest 'Trade in Grass' is started, then Meldor, Borka, Nadja, Sonya and Vanya will remember the armor on the GG;
 - Pickpocketing from Borka, Sonya and Vanya is available not only during the quest 'Trade in Grass';
 - Added missing dialogue with Sonya about buying grass;
-- Peck does not comment on GG's armor or crimes while he is in the brothel;
-- Baber will not ask 'Do you want to work in the field?' if the PC is no longer neutral;
+- Peck does not comment on PC's armor or crimes while he is in the brothel;
+- Babera will not ask 'Do you want to work in the field?' if the PC is no longer neutral;
 - Mortis will not give advice about the port quarter to the PC paladin as a militia member;
 - If the PC is a paladin, then the diary entry about Mortis's advice will not mention militia armor;
-- The description of the key to the thieves' cache has been changed, since it can be obtained not only from Hannah;
+- The description of the key to the thieves' cache has been changed, since it can be obtained not only from Hanna;
 - Moe will not demand money from the militia, mage and paladin if you speak to him first;
 - During the 'Weed Trading' quest, Borka's two welcome dialogues are not blocked;
 - The sound of rats growling during the warning animation before an attack has been restored;
@@ -921,11 +921,11 @@
 - Fixed anomalous collisions of one of the carpet models;
 
 ## v20 28.11.2018
-- Fixed errors when inserting a stone guard and quest lurker into Yarkendar;
-- Unused replicas of GG, Bromor, Milten, Xardas, Constantino and Lothar are used;
-- Borka and Nadya take into account the heavy armor of the militia on the PC when trying to buy grass from them;
-- Fixed a rare inability to talk with Nadya and complete the quest 'Trade in Grass';
-- Fixed confusion in dialogues with Nadya about grass after dialogue about Lucia;
+- Fixed errors when inserting a stone guard and quest lurker into Jarkendar;
+- Unused replicas of PC, Bromor, Milten, Xardas, Constantino and Lothar are used;
+- Borka and Nadja take into account the heavy armor of the militia on the PC when trying to buy grass from them;
+- Fixed a rare inability to talk with Nadja and complete the quest 'Trade in Grass';
+- Fixed confusion in dialogues with Nadja about grass after dialogue about Lucia;
 - Fixed missing animation of Cassia's secret thieves sign;
 - The opportunity to join Henry’s squad and train is not lost if you clear the tower before meeting him;
 - Added separate skin types with different prices for each reptile, instead of one common trophy;
@@ -933,7 +933,7 @@
 - Experience for finding a cache of Wine is awarded in any chapter, not just in the third;
 - Fixed a problem with the first dialogue with the robber at the bridge;
 - Fixed a bug due to which Lares could appear in the tavern without clothes;
-- Now you don't have to tell Rengar 'I have to hand you over to the militia' to let him go;
+- Now you don't have to tell Rengaru 'I have to hand you over to the militia' to let him go;
 - Fixed the inscription on the screen when giving the last test tube with dragon blood to Ian;
 - Hakon will say 'You again!' and about new weapons only in the next chapter after the first dialogue with the GG;
 - Baltram's refusal to trade has been restored if Canthar is released from prison and the PC is not associated with the 'Ring of Water';
@@ -943,9 +943,9 @@
 - Fixed the lack of Sarah's goods from Canthar if the PC did not trade with her before her arrest or death;
 - Maria will not send the PC to discuss the salary amount with Onar if he has already done so;
 - Water Mages at the underground excavations in Khorinis do not comment on the weather on the surface;
-- Lemar's Debt Book is considered a quest item;
+- Lehmar's Debt Book is considered a quest item;
 - Fixed the need to select both answers to the judge's question about the meeting;
-- If the leader of the bandits is already dead, then after Maleth's hint, a bag of gold will appear in the cave;
+- If the leader of the bandits is already dead, then after Malakh's hint, a bag of gold will appear in the cave;
 - All lines of unused dialogue with Dexter from the original without the add-on are used;
 - Fixed the ability to give all the lamb sausage to one novice;
 - Fixed mixing of ambient dialogues with novices;
@@ -955,22 +955,22 @@
 - In the cave in the swamps you can find all the slaves who escaped from the mine (before they went to Khorinis);
 - The night lighting of the torches in the Mine Valley Castle has been restored;
 - Fixed missing diary entries about trading and training with Sagitta;
-- Malet will not say “Well, now you look like a person” if PC appeared on Lobart’s farm for the first time;
-- Malet correctly assesses the GG's movement to tell him "I saw you come down from the mountains";
-- Fixed text protruding beyond the margins of two stone tablets in the Yarkendar library;
+- Malak will not say “Well, now you look like a person” if PC appeared on Lobart’s farm for the first time;
+- Malak correctly assesses the PC's movement to tell him "I saw you come down from the mountains";
+- Fixed text protruding beyond the margins of two stone tablets in the Jarkendar library;
 - The quest 'Field Predators' does not disappear from the diary after completion, but is sent to the completed ones;
 - Niklas Meat is now a separate item with an increased health bonus;
 - Cavalorn will give gold after destroying the Brago bandits, even if the PC has already entered the city;
 - A new texture of boars has been added, now it is different from the texture of wargs;
 - Improved the too dark texture of bloodfly wings;
 - Fixed possible corruption of the save after taking the sword 'Dragon Storm';
-- Guild members comment not only on the inconsistency of clothing on the GG, but also on its absence;
+- Guild members comment not only on the inconsistency of clothing on the PC, but also on its absence;
 - Unused lines of bandits about the lack of clothes on the PC are used;
 - Vatras and Lares refuse to talk to the PC wearing the 'Ring of Water' armor in Khorinis;
 - The dialogue with Raoul, which begins the quest 'Black Skin', is also available to the novice;
 - The book stand on Lobart's farm is a dynamic object with text rather than a regular model;
 - Added missing texts to two book stands in the Khorinis Barracks;
-- The appearance of a young wolf near Maleth is no longer limited to the first and second chapters;
+- The appearance of a young wolf near Malakh is no longer limited to the first and second chapters;
 - You can learn about Diego’s departure with the prospectors not only from Milten, but also from his diary;
 - Edda can be given the Daron figurine, even if it is still needed to join the monastery;
 - Incorrectly translated question from PC Cantharu 'What exactly did you mean?' moved to another dialog;
@@ -979,7 +979,7 @@
 - Karras trades only with magicians, as he says in the dialogue;
 - Karras will begin trading with the PC of another guild when he returns the Eye of Innos;
 - You can ask Mixir to tell about the call of Quarhodron many times, before the first dialogue with the spirit;
-- Fixed a discrepancy between the spoken line and the option in the dialogue with Milten about Horn and Diego;
+- Fixed a discrepancy between the spoken line and the option in the dialogue with Milten about Gorn and Diego;
 - The situation was taken into account when the PC first met Milten only in the third chapter in the monastery;
 - Added new models for the bag of gold, Niklas meat and empty wallet;
 - The prices of coal and spiral clam have been reduced, the empty field for the price of old gold coins has been removed;
@@ -988,13 +988,13 @@
 - An entry is added to the diary that Jergan can teach animals how to extract claws;
 - Jergan asks PC to convey the news to Orik, even if he has moved to Fadget's camp;
 - If Orik is dead, the entry for the quest 'Bad News' will not be added to the diary;
-- For GG's blessing, Vatras will question him, giving two attempts, as in the original without the addon;
+- For PC's blessing, Vatras will question him, giving two attempts, as in the original without the addon;
 - Three unused dialogue lines with Vatras about blessing are used;
 - Fixed a bug due to which the 'Fist of Water' spell did not work on fire dragons;
 - The 'Geyser' spell deals double damage to fire creatures;
 - There is no protection belt left in the inventories of the beaten Garett, Orlan and Khaled;
 - Recipes, books of runes, meadow mountaineers and royal sorrel do not remain in the inventories of beaten merchants;
-- The dialogue with Lee about the Horn no longer requires you to choose both answers;
+- The dialogue with Lee about the Gorn no longer requires you to choose both answers;
 - If Lares is not distracted by the PC when accompanied, then he addresses him with calmer remarks;
 - When using mass destruction spells, targets beyond the radius are not taken into focus;
 - The model of sheep on a spit has been changed: now they have no wool, and the size of the carcasses has been slightly reduced;
@@ -1016,7 +1016,7 @@
 - Fixed a bug where it was impossible to ask Hilda 'How are you?';
 - Hilda and Torlof correctly estimate the elapsed time of their quests;
 - Removed Jesper's line in which he tried to voice a non-existent amount of gold;
-- Khorinis is surrounded by water not by an invisible wall, but by a trigger with video and the death of the GG, as on Irdorath;
+- Khorinis is surrounded by water not by an invisible wall, but by a trigger with video and the death of the PC, as on Irdorath;
 - Randolph's quest 'The Loss' has been renamed to 'The Hangover' to correct a translation error;
 - Requesting gold from Randolph to purchase medicine is included as a separate dialogue option;
 - If the PC took gold from Randolph, he will receive less experience for completing the quest;
@@ -1024,7 +1024,7 @@
 - Added 3D sky parameter (zSkyDome) to settings;
 - Hilda doesn't try to use the frying pan when she's too far from the stove;
 - Nagur and Kardif will not give the PC much work if Martin is next to them;
-- Kardif remembers GG's clothes and guild until he shows him the mark of the thieves;
+- Kardif remembers PC's clothes and guild until he shows him the mark of the thieves;
 - Fixed missing warning about save incompatibility when loading it for the first time;
 - The skeletons in the cave under the Circle of the Sun do not kill the crawler warrior living there;
 - Fixed texture mapping of the small fire model;
@@ -1057,18 +1057,18 @@
 - Fixed a bug due to which Cornelius could not escape from the city;
 - Fixed an issue when moving Rengaru to prison that would cause him to attempt to return to port;
 - Meadow berries restore mana instead of health;
-- After the first meeting with GG, Henry does not endlessly repeat 'Stop!' at the entrance to the pirate camp;
+- After the first meeting with PC, Henry does not endlessly repeat 'Stop!' at the entrance to the pirate camp;
 - Henry does not refuse to talk to the PC leaving the camp after permission to enter;
 - Henry won't say that Greg went to sea for loot if he's already returned;
 - Fixed inability to tell Henry about meeting Greg in Khorinis;
-- Added the ability to return Greg's treasures in Yarkendar, receiving half as much experience;
+- Added the ability to return Greg's treasures in Jarkendar, receiving half as much experience;
 - The opportunity to ask questions to Greg from the dialogue “I would like to know something else” is not lost;
 - Ask Greg 'How did you get here?' It is possible after the start of the quest 'Reconnaissance among the bandits';
 - If you return the stolen clothes to Lobart, he takes the theft into account when recalculating the price;
 - Added the ability to pay Lobart for stolen clothes if they can no longer be returned;
 - The diary is updated not only when receiving quest experience, but also after sleep;
-- Fixed an error in the diary entry during the dialogue with Pirokar about the missing residents of Khorinis;
-- Rosie runs at the same speed as PC and Till: now it will be easier to accompany them;
+- Fixed an error in the diary entry during the dialogue with Pyrokar about the missing residents of Khorinis;
+- Rosi runs at the same speed as PC and Till: now it will be easier to accompany them;
 - Women do not use a head model with missing facial animation;
 - Fixed endless and uninterruptible dialogue of Angara on Irdorath;
 - Having crossed the bridge on Irdorath, Hangar leaves not for the ship, but for the point of further meeting with the GG;
@@ -1130,7 +1130,7 @@
 - You cannot ask Bengar and Akil about the missing people if they have already returned to Khorinis;
 - Fixed a bug due to which Bengar and Akil could not notice the returning Pardos, Telbor and Tonak;
 - If Monty or Patrick are dead in Khorinis, then Garvell and Cord take their absence into account;
-- Patrick and William at Yarkendar wear the same clothes as all the other slaves;
+- Patrick and William at Jarkendar wear the same clothes as all the other slaves;
 - The never-played dialogue with Parlan about the novices in the third chapter has been restored;
 - Fixed the inability to learn the 'Shrink Monster' rune in Khorinis;
 - Fixed the cost of learning the 'Small Firestorm' and 'Greater Firestorm' runes;
@@ -1152,7 +1152,7 @@
 - Acolyte quests are canceled when joining a mage, not when receiving a library key;
 - Kardif does not advise going to Halvor for information about missing people if he is in prison;
 - Fixed conditions and phrases in Riordiana's dialogue in Khorinis 'Is there anything new?';
-- Riordian in Yarkendar talks about William in the east in the opening dialogue, not in the dialogue about the west;
+- Riordian in Jarkendar talks about William in the east in the opening dialogue, not in the dialogue about the west;
 - The entry about William in dialogues with Riordian and Saturas is not added to the diary twice;
 - For setting up Sarah, Canthar gives a new, more useful weapon;
 - Beating Ignaz is considered a crime, and the Oblivion spell has no effect on him;
@@ -1174,7 +1174,7 @@
 - Greg does not react to random player attacks in Dexter's camp (for example, being caught in the rain of fire);
 - The main character's repeated line in dialogue with Greg has been replaced with another, more appropriate one;
 - You can tell Greg about Dexter without waiting for him to leave for the crossroads at Onara's farm;
-- If you refuse to help Greg twice in Khorinis, then in Yarkendar he will give pirate clothes instead of armor and less gold for quests;
+- If you refuse to help Greg twice in Khorinis, then in Jarkendar he will give pirate clothes instead of armor and less gold for quests;
 - If the player received pirate clothing from Greg, then the armor can be purchased from Garett;
 - Fixed inability to trade with Garett if the player did not talk to him before Greg returned;
 - Fixed the texture of the pirate clothing model in the inventory;
@@ -1210,44 +1210,44 @@
 - Fixed blocking of five dialogues with Lothar after a conversation with Hagen;
 - You can tell Lothar about the evidence only after reporting the dragons;
 - You can only say to Lothar 'I'm looking for a piece of metal ornament' before receiving it from Hagen;
-- The quest 'The Problem of Ysgaroth' is not blocked after joining the mages and closes correctly;
-- You can inform Ysgaroth about the black wolf at any stage of the game, and not before receiving the key to the library;
-- The situation has been fixed when Tekla did not give stew as a reward for sending from the third chapter;
+- The quest 'The Problem of Isgaroth' is not blocked after joining the mages and closes correctly;
+- You can inform Isgaroth about the black wolf at any stage of the game, and not before receiving the key to the library;
+- The situation has been fixed when Thekla did not give stew as a reward for sending from the third chapter;
 - Fixed the need to pay Cassia for pickpocket training if it has already been learned;
-- After transferring Baltram's parcel to Naguru, goods from it appear for sale at Feni;
+- After transferring Baltram's parcel to Nagur, goods from it appear for sale at Feni;
 - Diego in Khorinis and Mine Valley does not become aggressive when he sees the PC in bandit armor;
 - Pedro and the entire team on Irdorath do not become aggressive when they see the PC in bandit armor;
 - Added two small dialogues with Baltram's messenger;
 - Events associated with the first appearance of the PC in the city occur not only in dialogue with Lothar;
 - Diego on Irdorath is armed with the same bow as in the Mine Valley;
-- Mika does not refuse to talk if Lares is an ally of the GG, but is not nearby;
-- In the dialogue 'What's so dangerous here?' Mika correctly assesses GG's armor;
+- Mika does not refuse to talk if Lares is an ally of the PC, but is not nearby;
+- In the dialogue 'What's so dangerous here?' Mika correctly assesses PC's armor;
 - Fixed a bug due to which Mika endlessly called out to the PC on the Akila farm;
 - Mika and Wulfgar are not trying to occupy the same chair in the barracks;
-- Fixed the ability to say 'Caught!' to Rengar if he has not yet reached the port;
+- Fixed the ability to say 'Caught!' to Rengaru if he has not yet reached the port;
 - The mercenary's medium armor is not removed from the PC when receiving repeated ones from the Gorn;
 - Fixed a bug due to which in the dialogue about the sign of thieves the PC nodded his head instead of Cassia;
-- Fixed the inability to learn from Kord after joining the 'Ring of Water';
-- The quest to find ore for Bennett is now noted in the diary, and the player will receive 100 experience for it;
-- If Horn was released from prison, then the Herald will say that he gave him the note without waiting for the next day;
+- Fixed the inability to learn from Cord after joining the 'Ring of Water';
+- The quest to find ore for Bennet is now noted in the diary, and the player will receive 100 experience for it;
+- If Gorn was released from prison, then the Herald will say that he gave him the note without waiting for the next day;
 - Fixed errors in dialogues with Xardas about an unknown part of the island after selling the Claw of Beliar;
 - Agon, Ulf and Igaraz restore the novices' standard behavior after returning to the monastery;
 - Unused zombie paladins have been restored: they can be found on Irdorath instead of regular zombies;
-- Replaced Rengaru's line spoken in GG's voice;
+- Replaced Rengaru's line spoken in PC's voice;
 - Fixed duplicate diary entries about hiring Biff;
 - You can only hire Biff after asking 'What do you hope to find here in the Mine Valley?';
 - Fernando correctly responds to the dialogue "You sell weapons to bandits" while in prison;
 - If Halvor is in prison, then he responds to the PC with a threatening remark, rather than sitting silently;
-- Randolph does not lose the match if Ruhar has more than one water bottle in his chest;
-- The GG's guild changes from a mercenary to a dragon hunter only after receiving armor from Bennett;
+- Randolph does not lose the match if Rukhar has more than one water bottle in his chest;
+- The PC's guild changes from a mercenary to a dragon hunter only after receiving armor from Bennet;
 - Boltan takes into account the presence of Halvor, Cornelius and Borka in the prison when he says that all the cells are empty;
 - Boltan takes Canthar's release into account when he says that all the cells are empty;
 - Upon surrendering Halvor to the militia, Andre takes and reads his letter to the bandits;
 - Prisoners' inventories do not create infinite weapons;
 - Canthar is not trying to occupy a non-existent bench in prison;
-- Kronos in Khorinis does not equip the best weapon in his inventory after trading with GG;
+- Cronos in Khorinis does not equip the best weapon in his inventory after trading with GG;
 - Hearts have been added to swamp golems, which can be removed from their corpses once the skill has been learned;
-- The hermit in Yarkendar does not become aggressive when he sees the PC in the armor of a bandit;
+- The hermit in Jarkendar does not become aggressive when he sees the PC in the armor of a bandit;
 - Added the ability to give extra bandit and mercenary armor to the hermit;
 - The price of the scroll of the spell 'Reduce Monster' has been increased;
 - The 'Shrink Monster' spell again affects demons and golems (except for magic ones);
@@ -1261,21 +1261,21 @@
 - The novices are left with no lamb sausage, which they eat when they receive it;
 - Lares on Irdorath wears the 'Ring of Water' armor rather than the townsman costume;
 - Fixed the text of counters for dragon blood tubes, cleared altars and fake shares;
-- Fixed sorting of dialogue options with Higlas, Kerolot and Moe;
+- Fixed sorting of dialogue options with Hyglas, Keroloth and Moe;
 - Disabled Ice Dragon Ball Lightning shock condition;
 - Fixed repeated journal entries about learning from Morgan and Henry in the dialogue with Bones;
 - The sleeping bandits in Dexter's camp always wake up and change their routine when a battle begins;
 - Yang refuses to train the PC mage or paladin, empty dialogue is no longer shown;
-- Used unused routines and travel points for Silvio and Bullko;
-- During the dialogue with the ice dragon, Silvio and Bullko go into the ice area (if the golems are dead);
-- After the death of the ice dragon, Silvio and Bullko appear near the cave (if the golems are dead);
-- Two previously inaccessible remarks by Milten about Horn and Diego in Khorinis have been restored;
+- Used unused routines and travel points for Silvio and Bullco;
+- During the dialogue with the ice dragon, Silvio and Bullco go into the ice area (if the golems are dead);
+- After the death of the ice dragon, Silvio and Bullco appear near the cave (if the golems are dead);
+- Two previously inaccessible remarks by Milten about Gorn and Diego in Khorinis have been restored;
 - Henry's training limit has been increased to 80%: you can now fully learn the crossbow up to the sixth chapter;
 - Vein miners no longer equip two pickaxes at the same time;
 - Fixed discrepancy between the color of Fed's scalp and body;
 - The quest 'Neoras' Potion from Dragon Eggs' has been renamed to 'Neoras's Potion from Dragon Eggs';
 - You can't say to Sekob 'Okay, I'll talk to Onar' if that conversation has already taken place;
-- Information about the Horn's imprisonment is revealed in the correct dialogue with the Herald;
+- Information about the Gorn's imprisonment is revealed in the correct dialogue with the Herald;
 - Milten will not say that Gorn is in prison if he has already been released;
 - Constantino sells spirit essence (+3 to max mana) for his apprentice mage or novice;
 - Fixed a situation where Esteban could contact dead guards;
@@ -1286,7 +1286,7 @@
 - Jorgen on Irdorath is armed not with a sickle, but with a light saber;
 - Paladin spells have slightly reduced mana requirements;
 - Fixed a bug due to which the entry about Diego and Silvestro's group was not added to the diary;
-- You can ask Parsival about Diego only after asking about the miners;
+- You can ask Parcival about Diego only after asking about the miners;
 - You cannot talk to Onar and Sekob about rent after completing Torlof's quest to collect it;
 - Fixed dead Angus and Hank's weapons being unavailable for removal;
 - The dialogue with Xardas about the new threat involves five unused lines;
@@ -1305,12 +1305,12 @@
 - Fixed an issue where it was possible to tell Gorax about the sausage distribution before visiting the pantry;
 - Fixed a bug due to which the undead dragon stopped moving and using magic;
 - Fixed sound looping in the undead dragon's cave;
-- The displayed names of the gates of Irdorath and Yarkendar and the recesses for activating the portal have been restored;
+- The displayed names of the gates of Irdorath and Jarkendar and the recesses for activating the portal have been restored;
 - Added missing key to the back door of Orlan's tavern;
 - Lares does not comment on the protagonist's guild choice until the greeting dialogue if they have not met before;
 - The operation of the trigger in the cave with the sword “Storm of Dragons” has been completely restored;
-- The characteristics of the Dragomir and Sengrat crossbows have been slightly improved;
-- Fixed missing reason for Attila's attack and Cassia's response if Nagura's mission was failed;
+- The characteristics of the Dragomir and Sengrath crossbows have been slightly improved;
+- Fixed missing reason for Attila's attack and Cassia's response if Nagur's mission was failed;
 - A dead Bloodwin actually loses his head when the player takes it from his inventory;
 - The main character actually shows the guards Bloodwin's head;
 - Added dialog boxes for the convenience and speed of frying meat on stoves and fires;
@@ -1331,9 +1331,9 @@
 - Fixed the formation of a negative mana value when removing a ring or amulet of priests;
 - Fixed the possibility of dying when removing a ring or amulet of healers;
 - Rings and amulets no longer increase current mana and health: all problems and exploits have been fixed;
-- Bennett on Irdorath sells Heavy Dragon Hunter Armor if the player did not buy it in Khorinis;
+- Bennet on Irdorath sells Heavy Dragon Hunter Armor if the player did not buy it in Khorinis;
 - Bartok dons leather armor and equips a bow only when hunting outside the city;
-- Small staves have been renamed canes and slightly lengthened, and a new model has been added for Maleth's staff;
+- Small staves have been renamed canes and slightly lengthened, and a new model has been added for Malakh's staff;
 - Guards now turn towards the player, preventing him from passing behind them;
 - The bandit on the bridge near Dexter's camp does not react to the player's weapons and magic until their first dialogue;
 - You can now learn the acrobatics skill from your character assistant;
@@ -1342,21 +1342,21 @@
 - Fixed a discrepancy between the spoken phrase and the option in the dialogues with Alligator Jack, Betsy and Owen;
 - Fixed lack of voice acting for spoken phrases in dialogues with Bartok, Talbin and Andre;
 - Corrected text placement in the book "Southern Art of Defense";
-- Fixed the ability to borrow gold from Lemar after beating him;
+- Fixed the ability to borrow gold from Lehmar after beating him;
 - Crimson stops buying gold nuggets from the player if he beat him up;
 - Added checking of saves with a warning about the need to start a new game;
 - Unnamed two-handed sword has been renamed to "Enhanced two-handed sword";
 - An incorrect rune has been removed from the book of runes of the third circle;
 - The cost of learning the Fireball rune has been reduced from 10 to 5 learning points;
 - The "Reduce Monster" rune has been moved to the fifth circle of magic, the cost of learning and the mana requirement have been reduced;
-- Fixed the inability to return in the standard way from the area with a magic bow in Yarkendar;
+- Fixed the inability to return in the standard way from the area with a magic bow in Jarkendar;
 - Inscriptions about receiving a bow, crossbow and ammunition from Tandor do not overlap each other;
 - After Raven's death, dead stone guardians do not lose awakening effects;
-- Fixed a bug due to which, when activating the teleport in the temple of Yarkendar, the second guard did not awaken;
+- Fixed a bug due to which, when activating the teleport in the temple of Jarkendar, the second guard did not awaken;
 - Will-o'-the-wisps deal magical damage rather than slashing damage;
 - The cost of learning Will-o'-the-Wisp's abilities has been reduced;
 - The house of the cartographer Ibrahim is no longer considered a nobody's house;
-- Sengrat does not prevent the player from climbing the castle wall and his dialogue does not begin during the pull-up;
+- Sengrath does not prevent the player from climbing the castle wall and his dialogue does not begin during the pull-up;
 - Fixed empty lines instead of the names of ore swords in the dialogue with Ferros;
 - If you refuse to give Ferros the ore sword, then this can be done later;
 - Hosh-Pak and the Orc Shaman are moved away from the edge of the cliff from which they could fall;
@@ -1364,10 +1364,10 @@
 - If Hosh-Pak is dead, then the main character will not exclaim "Are you kidding me?!" in dialogue with Orik;
 - Owen does not praise the player for jumping into the pit if it was done before accepting the quest to find Malcom;
 - Recklessness penalties for jumping into a pit are no longer given after receiving the bravery bonus;
-- Quarchodron, Larius, Cornelius, Onar, Akil, and Secob are not armed with a wand, and the judge with a coachman;
+- Quarhodron, Larius, Cornelius, Onar, Akil, and Sekob are not armed with a wand, and the judge with a coachman;
 - Henry will consider the armor of a knight and dragon hunter to be luxurious armor;
 - Milten in Mine Valley also teaches how to create the Light and Cure Light Wounds runes;
-- Señan, Pablo, Skip and two bandits are looking at a wanted poster, not a note;
+- Senyan, Pablo, Skip and two bandits are looking at a wanted poster, not a note;
 - Saturas and Skip look at the card they received, not the note;
 - Fixed the missing text of transferring Lucia's letter to Elvrich, Judge Lee's instructions and the map to Saturas;
 - The inscriptions about the transfer of documents to Babo do not overlap each other;
@@ -1384,8 +1384,8 @@
 - The color of the effects of the magic staff, the staff of the Fire Mage, the staff of Ulthar and Typhoon has been changed;
 - The cutting part of the judge's staff is turned in the correct direction;
 - The spiked club has been renamed to the nailed stick;
-- You can receive Ysgaroth's blessing only after asking "What are you doing here?";
-- Fixed the impossibility of trading with Ysgaroth if the player first spoke to him as a mage;
+- You can receive Isgaroth's blessing only after asking "What are you doing here?";
+- Fixed the impossibility of trading with Isgaroth if the player first spoke to him as a mage;
 - Fixed a bug due to which Joe did not leave the tower after dialogue with the player;
 - Fixed the inability to take the sheep Akil with you again after the phrase “Wait here!”;
 - Aquila the sheep does not appear in the bandits' cave after returning to the farm;
@@ -1398,22 +1398,22 @@
 - Fixed a bug in the dialogue with Ur-Shak, due to which one of his lines was not played;
 - Fixed a bug due to which the nostalgia bonus did not increase the level;
 - Randolph runs away from the bandits across the bridge on the road to the tavern and does not get into a fight with them;
-- Ruhar and Randolph drink only beer and no gin during the competition;
+- Rukhar and Randolph drink only beer and no gin during the competition;
 - Fixed a bug in the function of removing runes from inventories;
 - The dead paladin rune in Mine Valley "Holy Light" can only be used by a paladin;
 - Fixed opaque textures of the skeleton mage model (thanks to ElderGamer);
 - Gardener, Rengaru, Nagur, Moe, Attila, Kardif and Halvor no longer accuse the player of theft;
 - All people in prison no longer accuse the player of murders and thefts;
 - Agon, Ulf and Igaraz do not refuse to fight a novice player dressed differently during the Trial;
-- It is no longer possible to receive a sleep scroll from Durian twice;
-- Fixed a bug due to which it was impossible to ask Durian "What's wrong with you?";
-- Durian now becomes neutral after being expelled from the monastery;
+- It is no longer possible to receive a sleep scroll from Dyrian twice;
+- Fixed a bug due to which it was impossible to ask Dyrian "What's wrong with you?";
+- Dyrian now becomes neutral after being expelled from the monastery;
 - Added the effect of eating weeds, removed the empty price field;
 - The gardener can be shown the thieves signal only after the question “What are you doing here?”;
 - After the thieves signal, the gardener can sell several master keys;
 - Borka and Mo do not miss their initial cues if they are addressed first outside the perception zone;
 - The main character does not give Mo 0 gold if the previously given 50 coins were the last;
-- Bennett in prison cannot be given the ore and asked the question “Are you with the farmers or with the mercenaries?”;
+- Bennet in prison cannot be given the ore and asked the question “Are you with the farmers or with the mercenaries?”;
 - After completing Maria's quest, you cannot ask Onar for a salary increase before it is assigned;
 - Fixed an error in the dialogue with Maria if Onar has not yet assigned a salary to the mercenary player;
 - Problems with voice acting and subtitles when announcing the amount of salary in dialogue with Maria have been fixed;
@@ -1461,30 +1461,30 @@
 - The entries, item and name of the quest “The Golden Cup of Bromor” have been changed, since only the dish is mentioned in the voice acting;
 - Elvrich does not arm himself with an ax while being captured by bandits;
 - Fixed sorting of dialogue options with Elvrich;
-- Each time she trades with Rosie, she does not lose her melee weapon;
+- Each time she trades with Rosi, she does not lose her melee weapon;
 - If the main character was not familiar with Till, then he cannot be teased in the fifth chapter;
-- Balthazar's sheep correctly move to Bengar's farm after the Forbidden Pasture quest and are not duplicated;
+- Balthasar's sheep correctly move to Bengar's farm after the Forbidden Pasture quest and are not duplicated;
 - When Balthasar hides from the Seekers, he does not lose sight of his sheep and does not say that they are lost;
 - The blacksmith's hammer is removed from the protagonist's belt when forged, and is not duplicated in the hand;
-- Fixed an issue where it was not possible to tell Secob that Rosie would not be returning to him;
-- Rosie cannot be given to Secob if she is dead but on his farm;
+- Fixed an issue where it was not possible to tell Sekob that Rosi would not be returning to him;
+- Rosi cannot be given to Sekob if she is dead but on his farm;
 - Both options for completing the quest "Sekob's Missing Wife" are not blocked for the Fire Mage;
 - Fixed endless diary entries about the quest "Sekob's Lost Wife";
 - Fixed the possibility of skipping the dialogue option with Sekob about the reward for expelling the Seekers from his farm;
 - The dining room and barn of Onar's farm are considered neutral and the people in them do not stare at the main character;
 - Two thieves' dialogues with Ramirez are only available after he sees the thieves' signal;
-- Fixed a typo in the subtitles of one of Hannah's phrases;
-- After the thieves' guild is cleared by the militia, Hannah is the first to address the player and begin the attack;
-- Dialogues with Hannah are blocked after clearing the thieves guild, and her hostility is not lost;
-- You can't tell Andre "I think Cornelius is lying" if Hagen has already ordered Bennett's release;
+- Fixed a typo in the subtitles of one of Hanna's phrases;
+- After the thieves' guild is cleared by the militia, Hanna is the first to address the player and begin the attack;
+- Dialogues with Hanna are blocked after clearing the thieves guild, and her hostility is not lost;
+- You can't tell Andre "I think Cornelius is lying" if Hagen has already ordered Bennet's release;
 - Added new clothes for Governor Larius (thanks to Ingeborg);
-- A defunct gold mine in the Bandit Mine in Yarkendar has been restored;
+- A defunct gold mine in the Bandit Mine in Jarkendar has been restored;
 - Fixed errors in Diego's movements and changing clothes when going to the ship;
 - Kervo's runestone or ore is created as a reward for killing lurkers, and not in dialogue with Geppert;
 - Kervo's quest to kill the lurkers is documented in the diary and marked as failed upon his death;
 - Kervo's unfulfilled quest is canceled in the fourth chapter and Kervo and Geppert die rather than be removed from the world;
 - Garvig is banished from the monastery after the player gives the sacred hammer to the judge;
-- Durian will not be expelled only in one case: if the magician player expresses to Pirokar a desire to leave him;
+- Dyrian will not be expelled only in one case: if the magician player expresses to Pyrokar a desire to leave him;
 - The extra category “Training” has been removed from the diary, and its entries have been distributed into more appropriate ones;
 - An entry about training with Ferros is added to the diary category "Training in the Castle";
 - Matteo doesn't say he sells leather armor when it can no longer be purchased;
@@ -1562,7 +1562,7 @@
 - For greater clarity, the diary entry about the quest "Experiment" and the text of the red stone tablet have been changed;
 - Hosh-Pak, the leader of the horde, colonels and leaders of the orcs now look different from other orcs (thanks to Joey1990);
 - Hosh-Pak and the leader of the horde are slightly strengthened, Hosh-Pak is armed with the restored orc hammer Crash Carrok;
-- Garad also accepts the hammer Crash Carrok as an orcish weapon;
+- Harad also accepts the hammer Crash Carrok as an orcish weapon;
 - Some gun dealers sell an old wolf knife;
 - Vatras in Khorinis does not arm himself with a stick;
 - The fire protection and price of the Fireman Belt have been slightly increased;
@@ -1578,7 +1578,7 @@
 - You can give the lamb sausage to Engor if the second chapter has begun and it is no longer needed for the quest;
 - Fixed a bug due to which those frightened by the Fear spell did not start running away from the player;
 - Buster and the mercenary do not hear the player through the walls and do not drive him out of Erol's empty house;
-- Unused experience is used in dialogues with Nagur, Bartok and Tekla (a total of 200 experience units);
+- Unused experience is used in dialogues with Nagur, Bartok and Thekla (a total of 200 experience units);
 - When you first visit Mine Valley, the current day does not start over;
 - All "switches" have been renamed to "switches";
 - Empty "runes" have been renamed to "rune stones";
@@ -1621,7 +1621,7 @@
 - You can no longer endlessly tell Opolos the same news;
 - In the absence of fish, herring is used to prepare “Quick Herring”;
 - You can give Orlan the wine only after asking “Who are you?”;
-- You can ask Hodges about Bennett's arrest only after asking "What happened?";
+- You can ask Hodges about Bennet's arrest only after asking "What happened?";
 - When reading Francis' account book, the protagonist's line is spoken only once;
 - Fixed the inability to complete or fail the quest "Rip and Recipe" if the main character became a magician;
 - The dead convicts in the Mine Valley are dressed in miner's trousers, like other convicts;
@@ -1650,8 +1650,8 @@
 - The Fear spell works even if there is no target in focus;
 - Lines with options for purchasing dragon hunter armor are now placed in the dialog box;
 - The name of the quest "A simple way to join the militia" has been changed and is now placed in the diary field;
-- The list of conditions under which Malet can be told about a bandit attack in the mountains has been expanded;
-- Not only a neutral without a guild can tell Malet about the bandit attack;
+- The list of conditions under which Malak can be told about a bandit attack in the mountains has been expanded;
+- Not only a neutral without a guild can tell Malak about the bandit attack;
 - Added information about additional damage to the description of Beliar's Claw;
 - Fixed a bug where Greg would appear in Dexter's camp in worker's or peasant's clothing;
 - Fixed the ability to provoke Dexter to attack and kill him without causing aggression from the camp bandits;
@@ -1665,22 +1665,22 @@
 - The price of the master's sword has been increased from 2400 to 3000 gold;
 - Shiny wallets have been fixed and their material has been changed from metal to leather;
 - Added information about health benefits to the turnip description;
-- The debt book can only be given to Torben, Coragon or Hannah after the player reads it and recognizes these names;
-- If Torben tells Lemar about his debt, then the debt book can be given to him without reading it;
-- Torben will no longer mention his debt to Lemar if he has already received his debt book;
-- Added additional dialogue with Torben about transferring the debt book, similar to other debtors;
-- Torben and Coragon no longer sell Lemar's resulting debt book, but it can now be stolen from them;
-- You cannot ask Kardif about Lemar's debtors after reading the debt book;
+- The debt book can only be given to Thorben, Coragon or Hanna after the player reads it and recognizes these names;
+- If Thorben tells Lehmar about his debt, then the debt book can be given to him without reading it;
+- Thorben will no longer mention his debt to Lehmar if he has already received his debt book;
+- Added additional dialogue with Thorben about transferring the debt book, similar to other debtors;
+- Thorben and Coragon no longer sell Lehmar's resulting debt book, but it can now be stolen from them;
+- You cannot ask Kardif about Lehmar's debtors after reading the debt book;
 - Gorax sells tongs for creating runes, the price of tongs has been reduced from 100 to 10 gold;
 - Traders armed with a heavy branch do not lose this weapon when trading;
 - Along with other rubbish, saws are periodically removed from merchants' inventories;
 - Only arms dealers are disarmed for trade;
-- Torben receives the correct trade inventory by chapter;
-- Fixed incorrect description of Hannah's pickpocketing level;
+- Thorben receives the correct trade inventory by chapter;
+- Fixed incorrect description of Hanna's pickpocketing level;
 - Fixed missing text for obtaining armor and clothing;
-- Lemar attacks the debtor player along with his assistant Meldor;
+- Lehmar attacks the debtor player along with his assistant Meldor;
 - The ice golems at the entrance to the New Camp are mortal again, regardless of Silvio's quest;
-- If you sell the Claw of Beliar Raven, then every time you pass by a merchant in the GG, lightning will not strike;
+- If you sell the Claw of Beliar Raven, then every time you pass by a merchant in the PC, lightning will not strike;
 - The characteristics of work clothes in the dialogue with Lobart have been corrected;
 - The option to dialogue with Lobart about purchasing clothes is placed in the provided field and shows the current price;
 - The quest "Lobart's Work Clothes" does not start if the player has already purchased these clothes;
@@ -1729,7 +1729,7 @@
 - The text of the book "Law on the Island" has been corrected: with the corrected fonts from heckler, two lines did not fit on the page;
 - Fixed texts for transferring dragon eggs, sacred hammer, almanac and ornament: only “item given” or “item received” was shown;
 - The materials of melee weapons have been revised and corrected, axes and clubs have become wooden, swords have become metal;
-- Magic and fire arrows and bolts are sold only on Irdorath, only by Bennett and only for the weapons that the PC has;
+- Magic and fire arrows and bolts are sold only on Irdorath, only by Bennet and only for the weapons that the PC has;
 - In addition to the attack condition, an additional dialogue condition with Skinner has been added to the dialogue with the bandit near Skinner, since he does not always attack the player;
 - There is no errand boy in the world;
 - Fixed the inscription when receiving damage from the altars of Beliar;
@@ -1743,4 +1743,4 @@
 - Involved the unused phrase "See, you're already better than me...", uttered by teachers when attempting to teach beyond their limit;
 
 ## pre-15x
-- [worldofplayers.ru/threads/36817](https://worldofplayers.ru/threads/36817/)
+- https://worldofplayers.ru/threads/36817/
