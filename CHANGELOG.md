@@ -629,7 +629,7 @@
 - Valentino will not be able to pay Coragon until a day after the fight with PC;
 - Coragon will not mention Valentino's debt if he is dead;
 - Paladins cannot be asked about the purpose of their arrival in the city if the PC already knows this;
-- Dialogues with Gahan about hunting are not blocked unless you ask him 'Who are you?' before being accepted into the 'Ring of Water';
+- Dialogues with Gaan about hunting are not blocked unless you ask him 'Who are you?' before being accepted into the 'Ring of Water';
 - The guards of the upper quarter and the town hall will not stop the PC in militia armor;
 - To complete the quest 'Trade in Weed' the PC must show Andre the joint that Borka sold him;
 - Rumbold will only call a PC mercenary or dragon hunter in the appropriate armor a dirty mercenary;
@@ -795,8 +795,8 @@
 - The inaccessible dialogue with Lothar has been transferred to Governor Larius with the same conditions;
 - Useless notes sold to them are periodically removed from merchants' inventories;
 - Merdarion will not say that he is helping Nefarious look for the ornament if all its parts have already been found;
-- Gahan will not demand 100 gold from a member of the 'Ring of Water' for training;
-- If you pay Gahan for training, he will take this amount into account when saying 'Everything I have';
+- Gaan will not demand 100 gold from a member of the 'Ring of Water' for training;
+- If you pay Gaan for training, he will take this amount into account when saying 'Everything I have';
 - The quest 'Diego's Gold' will not freeze until the sixth chapter if Gerbrandt is dead when it is completed;
 - Pickpocketing from Sentenza does not block his vote when transferring from Torlof;
 - If Diego dies before the story about the ore, then Silvestro’s note will be needed for the report to Garond;
@@ -1450,7 +1450,7 @@
 - Talbin remains a teacher after returning from Mine Valley;
 - When moving to Khorinis, Talbin appears next to the main character, and not far behind the paladins' post;
 - Talbin's quest is completed successfully only if you actually go with him through the Passage to the paladin post;
-- Gahan and Talbin are armed with crude swords rather than wooden sticks;
+- Gaan and Talbin are armed with crude swords rather than wooden sticks;
 - After the meeting at the tavern, Cavalorn does not head into the city wearing the Water Ring armor;
 - When changing people's clothes, their underwear no longer flashes;
 - Fixed cases where people would remove their current clothes but not be able to put on new ones;
@@ -1500,8 +1500,8 @@
 - Fixed a bug due to which Garvig did not take the sacred hammer from the beaten protagonist;
 - Now Garvig will pick up from the ground the sacred hammer that fell from the hands of the main character;
 - Fixed a bug that blocked Garvig's speech after stealing the Holy Hammer;
-- Gahan does not see the death of the snorting snapper, being too far from its habitat;
-- Fixed a bug where it was impossible to ask Gahan "Who are you?" and start the quest "The Snorting Beast";
+- Gaan does not see the death of the snorting snapper, being too far from its habitat;
+- Fixed a bug where it was impossible to ask Gaan "Who are you?" and start the quest "The Snorting Beast";
 - The leader of the snapper pack appears in the third chapter if Bilgot died before he could tell about him;
 - Fixed a bug in Luthero's dialogues that allowed neutrals and novice to trade with him;
 - Golems in the cave near the excavations awaken when the player attacks, rather than endlessly resetting the waiting animation;
@@ -1592,7 +1592,7 @@
 - Messages do not overlap each other when mining gold;
 - The price of all transformation scrolls has been significantly increased;
 - The Raven Guard armor material has been changed from leather to metal;
-- Gahan, Cavalorn and Orlan do not call the guards in case of danger;
+- Gaan, Cavalorn and Orlan do not call the guards in case of danger;
 - After the death of summoned skeletons, rusty two-handed swords do not remain in their inventory;
 - Saturas does not mention the need to free Raven's slaves if the player has already done so;
 - Sentenza approaches the protagonist to search him;
