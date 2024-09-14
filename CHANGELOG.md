@@ -95,7 +95,7 @@
 - When calculating the number of pirates in a PC squad, only living pirates are taken into account.
 - Morgan's comment about the cave with the auroris only adds a journal entry once.
 - Fixed an issue where the Khorinis Barracks theme song would only play once.
-- Erasing the memory of Bullco or Silvio does not cancel the Thekla Stew as a reward for fighting them.
+- Erasing the memory of Bullco or Sylvio does not cancel the Thekla Stew as a reward for fighting them.
 - Torlof, Jorgen and Jack do not reset their daily routine with each dialogue with the PC after the orc attack.
 - Agon, Ulf and Igaraz will return to the monastery after the test by Fire only if they did not try to kill the GG.
 - Activating the trigger in the Trial by Fire cave teleports Agon only once.
@@ -266,7 +266,7 @@
 - Lizards, boars and rats over Leicester Valley no longer fall from cliffs;
 - Joe is considered an ordinary port resident - no one stands up for him and he does not react aggressively to fights;
 - Fixed a bug due to which Salandril could not go to the monastery immediately after a fight and dialogue with the PC;
-- Bullco's responses to the fight with PC do not overlap the dialogue about Silvio's death;
+- Bullco's responses to the fight with PC do not overlap the dialogue about Sylvio's death;
 - Fixed illogical remarks from Hokurn when passing him various alcohol;
 - An entry about Jor will not be added to the diary if Alrik has not yet mentioned his name when talking about his sword;
 - After the death of an undead dragon, undead orcs stop spawning in its cave;
@@ -331,7 +331,7 @@
 - The quest 'How to get to the city of Khorinis' will be completed if the PC entered the city by swimming;
 - The translation of Pyrokar's remark about a hidden passage in the dialogue about completing his task has been corrected;
 - Corrected translation of PC's remark 'What's hiding behind that closed door over there?';
-- When talking about Silvio, Raoul will mention the possibility of joining the mercenaries only for a neutral PC;
+- When talking about Sylvio, Raoul will mention the possibility of joining the mercenaries only for a neutral PC;
 - Starting from the third chapter, Alrik will not talk about fighting the PC again if he has never fought with him;
 - The PC will not receive a ruby blade from Peck if he failed the quest 'Where is Peck?' in the third chapter;
 - It's not just a neutral who can say 'I want to look around the farm' to Raoul;
@@ -635,7 +635,7 @@
 - Rumbold will only call a PC mercenary or dragon hunter in the appropriate armor a dirty mercenary;
 - The situation was taken into account when the PC first met Lothar having already gained access to the upper quarter;
 - Lothar will report the report to Hagen only a day after the PC asks about a meeting with him;
-- An entry about Jarvis's vote for beating up Silvio's men will be added to the diary only for PC neutrals;
+- An entry about Jarvis's vote for beating up Sylvio's men will be added to the diary only for PC neutrals;
 - Fixed errors due to which some diary entries did not open the 'Special' section;
 - The situation was taken into account when the PC found William’s body before the first meeting with Farim;
 - If the PC does not know about the need for a replacement for Vatras, he will tell him “I’m back” instead of “I found a replacement for you”;
@@ -666,9 +666,9 @@
 - Milten in Mine Valley teaches not only the second circle of magic, but also the first;
 - Jora now has light and hunting crossbows for sale, which no one had sold before;
 - The oak bow in the dragon snapper cave in Mine Valley is available from the first chapter;
-- Jarvis does not say that he will vote for PC, who beat up Silvio's people, but is no longer neutral;
+- Jarvis does not say that he will vote for PC, who beat up Sylvio's people, but is no longer neutral;
 - Entries about the quest 'Jarvis's Challenge' do not disappear from the diary at the beginning of the second chapter;
-- The quest 'Jarvis's Challenge' will fail when Silvio and his men leave Onar's farm;
+- The quest 'Jarvis's Challenge' will fail when Sylvio and his men leave Onar's farm;
 - Fernando will give the promised reward for information if the PC has collected all the evidence against him, but agreed for bribery;
 - The quest 'Fernando's Business' will be failed in dialogue with Fernando after he is possessed or arrested;
 - Fixed the removal of the quest 'Fernando's Business' from the diary and an inaccessible entry after Fernando's arrest;
@@ -865,7 +865,7 @@
 - Stealing a card from Engor becomes available without having to start trading with him;
 - The quest 'Proof' will be marked as completed when delivering Garond's letter to Hagen;
 - The 'Proof' quest will not disappear from the diary at the beginning of the third chapter;
-- The situation was taken into account when the PC killed Silvio’s ice golems before the fourth chapter;
+- The situation was taken into account when the PC killed Sylvio’s ice golems before the fourth chapter;
 - Fixed missing diary entries about training with Neoras and Thorben;
 - If Elvrich returned from captivity, then Thorben will agree to teach PC how to pick locks;
 - You can inform Garvell about the orcs after returning from the Mine Valley, without talking to Ragnar;
@@ -1092,8 +1092,8 @@
 - The oak bow in the cave near the frozen camp is guarded by obscurantist if the dragon snapper is dead;
 - Two obscurantists in the Mine Valley were moved so as not to conflict with the orcs in the fourth chapter;
 - Fixed inability to tell Pepe about beating up Bullco who went to Mine Valley;
-- Silvio's lines do not apply if you meet him after the death of the ice dragon and the fight;
-- Don't miss the opportunity to ask Silvio 'Are these your people?' after remarks about ice giants;
+- Sylvio's lines do not apply if you meet him after the death of the ice dragon and the fight;
+- Don't miss the opportunity to ask Sylvio 'Are these your people?' after remarks about ice giants;
 - Fixed the location of the pickpocket option in the dialogue with Daron;
 
 ## v19 01.09.2018
@@ -1266,9 +1266,9 @@
 - Fixed repeated journal entries about learning from Morgan and Henry in the dialogue with Bones;
 - The sleeping bandits in Dexter's camp always wake up and change their routine when a battle begins;
 - Yang refuses to train the PC mage or paladin, empty dialogue is no longer shown;
-- Used unused routines and travel points for Silvio and Bullco;
-- During the dialogue with the ice dragon, Silvio and Bullco go into the ice area (if the golems are dead);
-- After the death of the ice dragon, Silvio and Bullco appear near the cave (if the golems are dead);
+- Used unused routines and travel points for Sylvio and Bullco;
+- During the dialogue with the ice dragon, Sylvio and Bullco go into the ice area (if the golems are dead);
+- After the death of the ice dragon, Sylvio and Bullco appear near the cave (if the golems are dead);
 - Two previously inaccessible remarks by Milten about Gorn and Diego in Khorinis have been restored;
 - Henry's training limit has been increased to 80%: you can now fully learn the crossbow up to the sixth chapter;
 - Vein miners no longer equip two pickaxes at the same time;
@@ -1296,7 +1296,7 @@
 - The unrealized swamp biters have been restored: they replaced the rats that were hanging in the water here and there.
 
 ## v18 25.06.2018
-- Silvio doesn't get stuck on the bench when changing his daily routine;
+- Sylvio doesn't get stuck on the bench when changing his daily routine;
 - Fixed sorting of dialogue options when training with Ferros;
 - The location where the lizard man spawns in the fort has been changed so that he does not fall from the second floor when he sees an enemy;
 - The location of the text in the book "Law on the Island" and in the almanac of the monastery library has been corrected;
@@ -1421,7 +1421,7 @@
 - You can return her golden dish to Maria only after the question “Who are you?”;
 - Rengaru runs away and hides in a new place if the player told him "I will make sure you are put behind bars";
 - The guard at Matteo's house immediately attacks the main character if he notices him in the warehouse;
-- The head models of Silvio and Torlof have been corrected: the ponytails have been removed from their shaved heads;
+- The head models of Sylvio and Torlof have been corrected: the ponytails have been removed from their shaved heads;
 - The situation when the player found Den's corpse before the dialogue with Brutus was taken into account;
 - No need to repeatedly tell Samuel "I want something stronger!" to purchase "Quick Herring" after sampling;
 - The unused alligator has been restored and strengthened, but it will be very difficult to meet;
@@ -1679,7 +1679,7 @@
 - Fixed incorrect description of Hanna's pickpocketing level;
 - Fixed missing text for obtaining armor and clothing;
 - Lehmar attacks the debtor player along with his assistant Meldor;
-- The ice golems at the entrance to the New Camp are mortal again, regardless of Silvio's quest;
+- The ice golems at the entrance to the New Camp are mortal again, regardless of Sylvio's quest;
 - If you sell the Claw of Beliar Raven, then every time you pass by a merchant in the PC, lightning will not strike;
 - The characteristics of work clothes in the dialogue with Lobart have been corrected;
 - The option to dialogue with Lobart about purchasing clothes is placed in the provided field and shows the current price;
